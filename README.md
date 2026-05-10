@@ -1,4 +1,4 @@
-readme = """# 🧠 Mental Health Services Data Pipeline & Dashboard
+🧠 Mental Health Services Data Pipeline & Dashboard
 ### Project 3 of 3 | Role: Data Engineer | Domain: Healthcare
 
 ---
@@ -117,4 +117,3 @@ Three normalised tables:
 
 *Part of a 3-project Health Data portfolio built over 8 weeks*
 *Projects: Data Analysis → Data Science → Data Engineering*
-"""
