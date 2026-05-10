@@ -1,0 +1,801 @@
+facility_id,state,facility_type,patients_served,staff_count,bed_count,services,accepts_insurance,year,urban_rural,operating_months,patients_per_staff,num_services,is_overburdened
+FAC202100000,MI,State Mental Hospital,4886.0,176.0,48.0,"Medication Management, Group Therapy, Substance Abuse Treatment, Telehealth Services, Crisis Intervention",False,2021,Rural,4,27.8,5,False
+FAC202100001,AL,Community Mental Health Center,479.0,189.0,154.0,"Group Therapy, Individual Therapy, Substance Abuse Treatment",False,2021,Urban,3,2.5,3,False
+FAC202100002,VA,Psychiatric Hospital,2925.0,127.0,154.0,"Group Therapy, Telehealth Services, Child and Adolescent Services, Substance Abuse Treatment",False,2021,Rural,6,23.0,4,False
+FAC202100003,NM,Community Mental Health Center,2425.0,69.0,154.0,"Individual Therapy, Telehealth Services",False,2021,Suburban,10,35.1,2,False
+FAC202100004,MN,Residential Treatment Center,4899.0,152.0,214.0,Telehealth Services,False,2021,Rural,7,32.2,1,False
+FAC202100005,VT,School Based Program,1871.0,107.0,154.0,"Individual Therapy, Group Therapy, Crisis Intervention, Medication Management, Child and Adolescent Services",False,2021,Rural,9,17.5,5,False
+FAC202100006,NV,Residential Treatment Center,459.0,20.0,154.0,"Substance Abuse Treatment, Crisis Intervention, Medication Management",False,2021,Urban,12,23.0,3,False
+FAC202100007,NJ,Veterans Affairs Medical Center,1693.0,64.0,39.0,"Substance Abuse Treatment, Case Management, Individual Therapy",True,2021,Urban,3,26.5,3,False
+FAC202100008,MI,Residential Treatment Center,4794.0,163.0,283.0,"Individual Therapy, Medication Management, Child and Adolescent Services",True,2021,Rural,11,29.4,3,False
+FAC202100009,NJ,School Based Program,4555.0,57.0,219.0,"Case Management, Child and Adolescent Services",False,2021,Suburban,2,79.9,2,True
+FAC202100010,MO,Psychiatric Hospital,289.0,166.0,25.0,"Crisis Intervention, Medication Management, Telehealth Services, Child and Adolescent Services, Individual Therapy, Substance Abuse Treatment, Case Management",False,2021,Rural,1,1.7,7,False
+FAC202100011,IL,State Mental Hospital,4318.0,119.0,215.0,"Case Management, Substance Abuse Treatment, Child and Adolescent Services, Group Therapy, Individual Therapy",True,2021,Suburban,1,36.3,5,False
+FAC202100012,CT,Private Practice,1759.0,157.0,234.0,"Crisis Intervention, Child and Adolescent Services",False,2021,Rural,3,11.2,2,False
+FAC202100013,RI,Residential Treatment Center,4985.0,134.0,267.0,"Child and Adolescent Services, Medication Management, Case Management, Crisis Intervention, Telehealth Services, Group Therapy, Individual Therapy",False,2021,Suburban,7,37.2,7,False
+FAC202100014,CT,Private Practice,434.0,167.0,66.0,"Crisis Intervention, Medication Management, Substance Abuse Treatment, Case Management",False,2021,Urban,2,2.6,4,False
+FAC202100015,ND,Outpatient Clinic,4015.0,33.0,154.0,"Substance Abuse Treatment, Group Therapy, Individual Therapy, Case Management, Telehealth Services, Medication Management, Crisis Intervention",True,2021,Suburban,7,121.7,7,True
+FAC202100016,PA,School Based Program,493.0,41.0,17.0,"Telehealth Services, Group Therapy, Medication Management, Child and Adolescent Services",False,2021,Urban,6,12.0,4,False
+FAC202100017,DE,Veterans Affairs Medical Center,807.0,57.0,245.0,"Substance Abuse Treatment, Group Therapy, Crisis Intervention",False,2021,Suburban,3,14.2,3,False
+FAC202100018,AK,Outpatient Clinic,4145.0,118.0,248.0,"Child and Adolescent Services, Substance Abuse Treatment, Group Therapy, Individual Therapy, Telehealth Services",True,2021,Rural,12,35.1,5,False
+FAC202100019,WA,Veterans Affairs Medical Center,2099.0,53.0,65.0,Telehealth Services,False,2021,Rural,6,39.6,1,False
+FAC202100020,ND,State Mental Hospital,2425.0,145.0,131.0,Substance Abuse Treatment,True,2021,Rural,8,16.7,1,False
+FAC202100021,PA,Private Practice,2729.0,182.0,292.0,"Group Therapy, Telehealth Services, Crisis Intervention, Child and Adolescent Services, Individual Therapy, Medication Management, Case Management",True,2021,Rural,1,15.0,7,False
+FAC202100022,NE,Private Practice,4462.0,160.0,73.0,"Telehealth Services, Child and Adolescent Services, Medication Management, Group Therapy",True,2021,Urban,9,27.9,4,False
+FAC202100023,AZ,Outpatient Clinic,1885.0,105.0,206.0,"Medication Management, Crisis Intervention, Telehealth Services, Individual Therapy, Child and Adolescent Services, Group Therapy, Case Management",False,2021,Suburban,12,18.0,7,False
+FAC202100024,WI,Private Practice,4425.0,107.0,154.0,Case Management,False,2021,Urban,12,41.4,1,False
+FAC202100025,OK,Veterans Affairs Medical Center,4465.0,188.0,165.0,"Child and Adolescent Services, Group Therapy, Individual Therapy",True,2021,Urban,3,23.8,3,False
+FAC202100026,WY,State Mental Hospital,4516.0,9.0,90.0,"Medication Management, Substance Abuse Treatment, Child and Adolescent Services, Crisis Intervention, Individual Therapy, Telehealth Services, Case Management",True,2021,Rural,8,501.8,7,True
+FAC202100027,KY,Veterans Affairs Medical Center,509.0,129.0,154.0,"Child and Adolescent Services, Case Management",True,2021,Urban,1,3.9,2,False
+FAC202100028,DC,State Mental Hospital,3532.0,35.0,154.0,"Crisis Intervention, Child and Adolescent Services, Substance Abuse Treatment, Case Management",False,2021,Suburban,5,100.9,4,True
+FAC202100029,NJ,Psychiatric Hospital,2425.0,129.0,154.0,"Case Management, Medication Management, Substance Abuse Treatment, Group Therapy, Individual Therapy, Crisis Intervention, Telehealth Services",True,2021,Urban,11,18.8,7,False
+FAC202100030,CO,Community Mental Health Center,2484.0,76.0,154.0,"Child and Adolescent Services, Individual Therapy",False,2021,Rural,12,32.7,2,False
+FAC202100031,WY,Psychiatric Hospital,2425.0,84.0,291.0,"Substance Abuse Treatment, Medication Management, Crisis Intervention, Telehealth Services, Case Management, Child and Adolescent Services",False,2021,Urban,4,28.9,6,False
+FAC202100032,RI,State Mental Hospital,2783.0,73.0,273.0,"Case Management, Crisis Intervention, Telehealth Services, Group Therapy, Individual Therapy, Child and Adolescent Services, Substance Abuse Treatment",False,2021,Urban,5,38.1,7,False
+FAC202100033,TX,Community Mental Health Center,896.0,179.0,299.0,"Child and Adolescent Services, Case Management, Crisis Intervention, Individual Therapy",False,2021,Rural,4,5.0,4,False
+FAC202100034,IA,School Based Program,3914.0,64.0,20.0,"Child and Adolescent Services, Group Therapy",False,2021,Urban,4,61.2,2,True
+FAC202100035,DE,Community Mental Health Center,4000.0,171.0,106.0,"Substance Abuse Treatment, Telehealth Services, Crisis Intervention, Child and Adolescent Services, Case Management, Medication Management, Group Therapy",True,2021,Urban,4,23.4,7,False
+FAC202100036,MI,State Mental Hospital,4953.0,121.0,154.0,"Individual Therapy, Case Management",False,2021,Suburban,3,40.9,2,False
+FAC202100037,CT,School Based Program,4243.0,19.0,232.0,"Crisis Intervention, Group Therapy, Child and Adolescent Services",True,2021,Rural,4,223.3,3,True
+FAC202100038,TN,Community Mental Health Center,2425.0,124.0,254.0,"Telehealth Services, Individual Therapy",False,2021,Rural,8,19.6,2,False
+FAC202100039,MI,Community Mental Health Center,333.0,129.0,127.0,"Individual Therapy, Child and Adolescent Services, Substance Abuse Treatment, Telehealth Services",False,2021,Suburban,9,2.6,4,False
+FAC202100040,MT,State Mental Hospital,2952.0,14.0,216.0,"Case Management, Medication Management, Substance Abuse Treatment",True,2021,Urban,10,210.9,3,True
+FAC202100041,DC,School Based Program,2425.0,33.0,154.0,"Case Management, Child and Adolescent Services",False,2021,Suburban,10,73.5,2,True
+FAC202100042,HI,State Mental Hospital,3294.0,51.0,154.0,"Group Therapy, Individual Therapy, Substance Abuse Treatment",False,2021,Rural,2,64.6,3,True
+FAC202100043,OR,Veterans Affairs Medical Center,2588.0,155.0,149.0,"Crisis Intervention, Telehealth Services, Medication Management",False,2021,Rural,9,16.7,3,False
+FAC202100044,VA,Outpatient Clinic,1323.0,138.0,127.0,"Group Therapy, Substance Abuse Treatment",True,2021,Suburban,1,9.6,2,False
+FAC202100045,TX,Community Mental Health Center,3820.0,50.0,33.0,"Telehealth Services, Group Therapy, Substance Abuse Treatment, Crisis Intervention, Case Management, Medication Management, Child and Adolescent Services",True,2021,Suburban,7,76.4,7,True
+FAC202100046,MD,School Based Program,4503.0,63.0,36.0,Medication Management,False,2021,Rural,9,71.5,1,True
+FAC202100047,ME,Private Practice,2912.0,176.0,181.0,"Telehealth Services, Case Management, Individual Therapy, Group Therapy, Crisis Intervention, Child and Adolescent Services",True,2021,Rural,5,16.5,6,False
+FAC202100048,NE,Private Practice,684.0,57.0,69.0,"Individual Therapy, Case Management, Crisis Intervention",False,2021,Urban,11,12.0,3,False
+FAC202100049,KS,Psychiatric Hospital,4635.0,40.0,154.0,"Individual Therapy, Child and Adolescent Services, Substance Abuse Treatment, Case Management",True,2021,Urban,12,115.9,4,True
+FAC202100050,SD,Psychiatric Hospital,2425.0,93.0,297.0,"Telehealth Services, Crisis Intervention, Substance Abuse Treatment, Group Therapy, Medication Management",False,2021,Rural,2,26.1,5,False
+FAC202100051,TX,Residential Treatment Center,3324.0,95.0,107.0,"Case Management, Individual Therapy, Crisis Intervention, Group Therapy, Medication Management, Child and Adolescent Services",True,2021,Urban,8,35.0,6,False
+FAC202100052,IL,Outpatient Clinic,2425.0,131.0,86.0,Child and Adolescent Services,False,2021,Urban,11,18.5,1,False
+FAC202100053,ID,Veterans Affairs Medical Center,84.0,148.0,251.0,"Individual Therapy, Case Management, Telehealth Services, Substance Abuse Treatment, Child and Adolescent Services",True,2021,Rural,3,0.6,5,False
+FAC202100054,MD,State Mental Hospital,1627.0,77.0,102.0,"Case Management, Telehealth Services, Child and Adolescent Services, Medication Management, Substance Abuse Treatment",True,2021,Rural,10,21.1,5,False
+FAC202100055,ND,Private Practice,4801.0,46.0,288.0,Individual Therapy,False,2021,Urban,3,104.4,1,True
+FAC202100056,IA,Psychiatric Hospital,2249.0,168.0,19.0,"Group Therapy, Substance Abuse Treatment, Child and Adolescent Services, Individual Therapy, Medication Management, Crisis Intervention",False,2021,Rural,5,13.4,6,False
+FAC202100057,LA,Residential Treatment Center,4108.0,143.0,34.0,"Crisis Intervention, Child and Adolescent Services, Individual Therapy, Group Therapy, Case Management, Telehealth Services, Medication Management",True,2021,Rural,11,28.7,7,False
+FAC202100058,MT,Veterans Affairs Medical Center,4641.0,59.0,134.0,"Case Management, Child and Adolescent Services, Medication Management, Group Therapy, Substance Abuse Treatment",True,2021,Urban,5,78.7,5,True
+FAC202100059,DC,Community Mental Health Center,2425.0,145.0,123.0,"Substance Abuse Treatment, Crisis Intervention, Case Management",True,2021,Suburban,11,16.7,3,False
+FAC202100060,DE,Veterans Affairs Medical Center,2425.0,95.0,271.0,"Child and Adolescent Services, Individual Therapy",True,2021,Suburban,8,25.5,2,False
+FAC202100061,NV,Outpatient Clinic,3190.0,43.0,154.0,Crisis Intervention,True,2021,Suburban,3,74.2,1,True
+FAC202100062,VT,Outpatient Clinic,1708.0,59.0,241.0,"Case Management, Child and Adolescent Services, Telehealth Services, Crisis Intervention, Individual Therapy",False,2021,Suburban,12,28.9,5,False
+FAC202100063,GA,School Based Program,1535.0,45.0,179.0,"Crisis Intervention, Group Therapy, Telehealth Services, Medication Management, Child and Adolescent Services, Individual Therapy",True,2021,Rural,4,34.1,6,False
+FAC202100064,OR,Psychiatric Hospital,1644.0,45.0,266.0,"Medication Management, Group Therapy, Substance Abuse Treatment, Crisis Intervention, Individual Therapy, Telehealth Services",True,2021,Rural,5,36.5,6,False
+FAC202100065,TN,Community Mental Health Center,4068.0,149.0,165.0,"Crisis Intervention, Substance Abuse Treatment, Child and Adolescent Services, Case Management, Telehealth Services, Group Therapy",True,2021,Urban,10,27.3,6,False
+FAC202100066,SC,Community Mental Health Center,2425.0,146.0,23.0,Child and Adolescent Services,True,2021,Rural,12,16.6,1,False
+FAC202100067,MT,Community Mental Health Center,4253.0,143.0,57.0,"Substance Abuse Treatment, Telehealth Services",True,2021,Rural,5,29.7,2,False
+FAC202100068,DE,Psychiatric Hospital,1363.0,180.0,154.0,"Telehealth Services, Individual Therapy, Group Therapy, Substance Abuse Treatment",True,2021,Rural,3,7.6,4,False
+FAC202100069,SC,Outpatient Clinic,449.0,189.0,299.0,"Telehealth Services, Group Therapy, Child and Adolescent Services, Substance Abuse Treatment",True,2021,Urban,8,2.4,4,False
+FAC202100070,MA,Veterans Affairs Medical Center,814.0,80.0,262.0,Case Management,False,2021,Urban,4,10.2,1,False
+FAC202100071,NV,School Based Program,4018.0,145.0,149.0,"Medication Management, Group Therapy",False,2021,Urban,12,27.7,2,False
+FAC202100072,ID,Outpatient Clinic,2736.0,67.0,2.0,Child and Adolescent Services,False,2021,Urban,3,40.8,1,False
+FAC202100073,NV,State Mental Hospital,4642.0,18.0,147.0,"Crisis Intervention, Child and Adolescent Services, Group Therapy",False,2021,Rural,10,257.9,3,True
+FAC202100074,MD,Veterans Affairs Medical Center,4745.0,112.0,154.0,"Telehealth Services, Individual Therapy, Crisis Intervention, Child and Adolescent Services, Medication Management, Substance Abuse Treatment",True,2021,Rural,10,42.4,6,False
+FAC202100075,NY,State Mental Hospital,2769.0,38.0,267.0,"Telehealth Services, Child and Adolescent Services, Individual Therapy, Crisis Intervention, Case Management, Group Therapy, Substance Abuse Treatment",False,2021,Suburban,5,72.9,7,True
+FAC202100076,DC,Residential Treatment Center,3083.0,44.0,135.0,"Medication Management, Child and Adolescent Services",False,2021,Urban,7,70.1,2,True
+FAC202100077,WA,School Based Program,3468.0,29.0,25.0,"Telehealth Services, Medication Management, Group Therapy",True,2021,Urban,12,119.6,3,True
+FAC202100078,MT,Outpatient Clinic,4268.0,54.0,250.0,"Group Therapy, Substance Abuse Treatment, Medication Management, Crisis Intervention",True,2021,Rural,1,79.0,4,True
+FAC202100079,NV,Private Practice,4460.0,9.0,117.0,"Crisis Intervention, Case Management, Child and Adolescent Services, Individual Therapy, Medication Management, Telehealth Services, Substance Abuse Treatment",True,2021,Suburban,1,495.6,7,True
+FAC202100080,ME,Veterans Affairs Medical Center,2361.0,137.0,122.0,"Telehealth Services, Substance Abuse Treatment, Crisis Intervention, Individual Therapy, Group Therapy, Medication Management",True,2021,Urban,9,17.2,6,False
+FAC202100081,DC,Residential Treatment Center,2912.0,95.0,42.0,"Case Management, Individual Therapy",False,2021,Urban,2,30.7,2,False
+FAC202100082,NC,Veterans Affairs Medical Center,2425.0,91.0,295.0,"Telehealth Services, Case Management, Medication Management",True,2021,Rural,3,26.6,3,False
+FAC202100083,MA,Private Practice,2978.0,50.0,271.0,Telehealth Services,False,2021,Rural,8,59.6,1,True
+FAC202100084,NY,State Mental Hospital,4344.0,152.0,280.0,Medication Management,False,2021,Suburban,10,28.6,1,False
+FAC202100085,MS,Psychiatric Hospital,4928.0,161.0,298.0,"Telehealth Services, Child and Adolescent Services, Individual Therapy, Crisis Intervention, Medication Management, Case Management",True,2021,Urban,9,30.6,6,False
+FAC202100086,AR,Community Mental Health Center,2425.0,48.0,61.0,"Medication Management, Case Management, Telehealth Services, Individual Therapy, Crisis Intervention, Substance Abuse Treatment",True,2021,Rural,8,50.5,6,True
+FAC202100087,ND,Private Practice,3406.0,125.0,282.0,"Medication Management, Crisis Intervention, Case Management, Group Therapy, Substance Abuse Treatment",True,2021,Suburban,4,27.2,5,False
+FAC202100088,UT,Community Mental Health Center,4953.0,142.0,154.0,"Crisis Intervention, Child and Adolescent Services, Medication Management, Case Management, Telehealth Services, Group Therapy",True,2021,Urban,3,34.9,6,False
+FAC202100089,MA,Outpatient Clinic,2425.0,169.0,154.0,"Telehealth Services, Medication Management, Group Therapy, Case Management, Crisis Intervention",True,2021,Rural,2,14.3,5,False
+FAC202100090,ME,School Based Program,2047.0,184.0,42.0,"Case Management, Child and Adolescent Services, Telehealth Services, Medication Management",True,2021,Suburban,4,11.1,4,False
+FAC202100091,RI,Community Mental Health Center,3473.0,147.0,75.0,"Substance Abuse Treatment, Medication Management, Telehealth Services, Child and Adolescent Services, Crisis Intervention, Case Management",False,2021,Rural,6,23.6,6,False
+FAC202100092,CT,Community Mental Health Center,3049.0,182.0,135.0,"Group Therapy, Case Management",True,2021,Rural,6,16.8,2,False
+FAC202100093,RI,Psychiatric Hospital,2425.0,68.0,118.0,"Medication Management, Case Management, Telehealth Services, Individual Therapy",True,2021,Suburban,5,35.7,4,False
+FAC202100094,WY,Residential Treatment Center,1885.0,24.0,189.0,"Case Management, Individual Therapy",True,2021,Suburban,2,78.5,2,True
+FAC202100095,NE,Residential Treatment Center,1645.0,47.0,154.0,Substance Abuse Treatment,False,2021,Rural,2,35.0,1,False
+FAC202100096,TX,Psychiatric Hospital,2877.0,38.0,132.0,"Individual Therapy, Case Management",True,2021,Urban,10,75.7,2,True
+FAC202100097,NJ,Veterans Affairs Medical Center,3145.0,65.0,154.0,"Crisis Intervention, Individual Therapy, Telehealth Services, Substance Abuse Treatment, Case Management, Group Therapy, Medication Management",False,2021,Rural,9,48.4,7,False
+FAC202100098,NE,Outpatient Clinic,1976.0,148.0,296.0,"Case Management, Substance Abuse Treatment, Crisis Intervention",True,2021,Suburban,8,13.4,3,False
+FAC202100099,WV,Veterans Affairs Medical Center,4617.0,46.0,154.0,Telehealth Services,False,2021,Suburban,4,100.4,1,True
+FAC202100100,NV,Community Mental Health Center,2425.0,163.0,39.0,Individual Therapy,False,2021,Suburban,12,14.9,1,False
+FAC202100101,DE,Community Mental Health Center,4447.0,83.0,109.0,"Group Therapy, Child and Adolescent Services, Crisis Intervention",True,2021,Suburban,4,53.6,3,True
+FAC202100102,NJ,Veterans Affairs Medical Center,4981.0,120.0,185.0,"Case Management, Substance Abuse Treatment, Individual Therapy, Group Therapy, Medication Management, Crisis Intervention, Telehealth Services",True,2021,Suburban,1,41.5,7,False
+FAC202100103,ND,School Based Program,4007.0,166.0,154.0,Group Therapy,True,2021,Suburban,2,24.1,1,False
+FAC202100104,MT,Private Practice,3793.0,40.0,258.0,"Individual Therapy, Medication Management, Child and Adolescent Services, Crisis Intervention, Substance Abuse Treatment, Group Therapy, Case Management",False,2021,Suburban,5,94.8,7,True
+FAC202100105,PA,School Based Program,3004.0,163.0,154.0,"Child and Adolescent Services, Group Therapy, Medication Management, Crisis Intervention, Telehealth Services, Substance Abuse Treatment",False,2021,Rural,10,18.4,6,False
+FAC202100106,NY,Veterans Affairs Medical Center,2228.0,133.0,154.0,Child and Adolescent Services,False,2021,Rural,11,16.8,1,False
+FAC202100107,WI,Residential Treatment Center,1995.0,71.0,154.0,"Child and Adolescent Services, Crisis Intervention, Substance Abuse Treatment, Group Therapy, Individual Therapy",True,2021,Rural,3,28.1,5,False
+FAC202100108,WA,Psychiatric Hospital,2634.0,154.0,154.0,Individual Therapy,False,2021,Urban,5,17.1,1,False
+FAC202100109,NC,Private Practice,2425.0,141.0,288.0,"Individual Therapy, Crisis Intervention, Case Management",True,2021,Suburban,1,17.2,3,False
+FAC202100110,WV,Private Practice,2425.0,78.0,284.0,"Substance Abuse Treatment, Group Therapy, Child and Adolescent Services, Crisis Intervention, Case Management, Medication Management",True,2021,Suburban,4,31.1,6,False
+FAC202100111,NJ,Outpatient Clinic,4038.0,58.0,154.0,"Crisis Intervention, Child and Adolescent Services, Medication Management, Telehealth Services, Individual Therapy",True,2021,Rural,5,69.6,5,True
+FAC202100112,MT,Residential Treatment Center,1134.0,10.0,128.0,"Case Management, Telehealth Services, Individual Therapy, Group Therapy, Child and Adolescent Services",True,2021,Rural,4,113.4,5,True
+FAC202100113,SC,Residential Treatment Center,3505.0,82.0,287.0,"Group Therapy, Individual Therapy, Telehealth Services, Crisis Intervention, Substance Abuse Treatment, Medication Management",True,2021,Suburban,11,42.7,6,False
+FAC202100114,AR,Veterans Affairs Medical Center,2425.0,63.0,112.0,Case Management,True,2021,Rural,2,38.5,1,False
+FAC202100115,KY,Residential Treatment Center,2425.0,87.0,281.0,"Group Therapy, Substance Abuse Treatment, Medication Management, Telehealth Services",False,2021,Rural,6,27.9,4,False
+FAC202100116,AR,State Mental Hospital,2510.0,136.0,248.0,"Crisis Intervention, Case Management, Child and Adolescent Services, Medication Management, Individual Therapy, Group Therapy",True,2021,Rural,7,18.5,6,False
+FAC202100117,RI,Psychiatric Hospital,4973.0,152.0,253.0,"Telehealth Services, Case Management, Group Therapy",True,2021,Suburban,2,32.7,3,False
+FAC202100118,WA,Psychiatric Hospital,3304.0,68.0,45.0,"Child and Adolescent Services, Substance Abuse Treatment, Crisis Intervention, Telehealth Services",False,2021,Rural,7,48.6,4,False
+FAC202100119,ID,School Based Program,104.0,72.0,116.0,"Substance Abuse Treatment, Group Therapy, Crisis Intervention, Telehealth Services, Individual Therapy",False,2021,Urban,1,1.4,5,False
+FAC202100120,TN,Community Mental Health Center,1189.0,135.0,195.0,"Medication Management, Group Therapy",False,2021,Rural,3,8.8,2,False
+FAC202100121,MD,Residential Treatment Center,1250.0,153.0,154.0,"Group Therapy, Telehealth Services, Substance Abuse Treatment, Case Management, Medication Management, Individual Therapy, Crisis Intervention",True,2021,Rural,8,8.2,7,False
+FAC202100122,MT,State Mental Hospital,2425.0,95.0,133.0,Crisis Intervention,True,2021,Urban,8,25.5,1,False
+FAC202100123,ND,Community Mental Health Center,2425.0,148.0,14.0,"Case Management, Telehealth Services, Substance Abuse Treatment",False,2021,Urban,6,16.4,3,False
+FAC202100124,UT,Community Mental Health Center,1225.0,33.0,172.0,"Substance Abuse Treatment, Group Therapy, Individual Therapy, Crisis Intervention, Case Management, Telehealth Services, Medication Management",True,2021,Suburban,11,37.1,7,False
+FAC202100125,MD,Private Practice,4290.0,104.0,17.0,"Substance Abuse Treatment, Medication Management, Group Therapy, Individual Therapy, Telehealth Services",False,2021,Urban,6,41.2,5,False
+FAC202100126,KS,Residential Treatment Center,2787.0,98.0,3.0,"Child and Adolescent Services, Medication Management, Crisis Intervention, Substance Abuse Treatment, Case Management, Telehealth Services, Group Therapy",False,2021,Rural,1,28.4,7,False
+FAC202100127,RI,Private Practice,338.0,173.0,238.0,"Case Management, Group Therapy, Telehealth Services, Child and Adolescent Services, Medication Management, Substance Abuse Treatment, Crisis Intervention",False,2021,Urban,2,2.0,7,False
+FAC202100128,WY,Psychiatric Hospital,3605.0,166.0,28.0,Child and Adolescent Services,True,2021,Urban,3,21.7,1,False
+FAC202100129,ID,Community Mental Health Center,3188.0,7.0,154.0,"Case Management, Group Therapy, Medication Management, Individual Therapy, Telehealth Services, Crisis Intervention, Child and Adolescent Services",False,2021,Suburban,5,455.4,7,True
+FAC202100130,MT,Community Mental Health Center,968.0,137.0,222.0,"Individual Therapy, Substance Abuse Treatment, Telehealth Services, Child and Adolescent Services, Medication Management",True,2021,Urban,6,7.1,5,False
+FAC202100131,MO,Community Mental Health Center,2425.0,147.0,100.0,"Case Management, Individual Therapy, Substance Abuse Treatment, Telehealth Services, Medication Management, Child and Adolescent Services, Group Therapy",False,2021,Urban,11,16.5,7,False
+FAC202100132,MT,Psychiatric Hospital,4613.0,6.0,154.0,"Medication Management, Child and Adolescent Services",False,2021,Rural,6,768.8,2,True
+FAC202100133,NE,Psychiatric Hospital,648.0,110.0,181.0,"Telehealth Services, Crisis Intervention, Individual Therapy, Case Management, Group Therapy",False,2021,Rural,9,5.9,5,False
+FAC202100134,NC,State Mental Hospital,1591.0,176.0,238.0,"Group Therapy, Individual Therapy, Child and Adolescent Services",True,2021,Rural,4,9.0,3,False
+FAC202100135,CO,Psychiatric Hospital,3564.0,83.0,80.0,"Individual Therapy, Child and Adolescent Services",True,2021,Rural,8,42.9,2,False
+FAC202100136,UT,Veterans Affairs Medical Center,2425.0,83.0,181.0,"Telehealth Services, Individual Therapy, Group Therapy",True,2021,Rural,8,29.2,3,False
+FAC202100137,WI,Veterans Affairs Medical Center,2432.0,113.0,173.0,"Individual Therapy, Medication Management, Crisis Intervention",False,2021,Urban,10,21.5,3,False
+FAC202100138,NC,Veterans Affairs Medical Center,3140.0,31.0,220.0,Telehealth Services,True,2021,Suburban,10,101.3,1,True
+FAC202100139,LA,Veterans Affairs Medical Center,2425.0,65.0,36.0,"Substance Abuse Treatment, Group Therapy, Case Management, Individual Therapy, Child and Adolescent Services, Medication Management",True,2021,Suburban,1,37.3,6,False
+FAC202100140,AR,School Based Program,1996.0,127.0,139.0,"Medication Management, Substance Abuse Treatment, Group Therapy",False,2021,Rural,7,15.7,3,False
+FAC202100141,RI,Psychiatric Hospital,2070.0,67.0,221.0,Telehealth Services,True,2021,Suburban,7,30.9,1,False
+FAC202100142,IL,Community Mental Health Center,2271.0,8.0,272.0,"Child and Adolescent Services, Individual Therapy, Case Management, Substance Abuse Treatment",True,2021,Rural,11,283.9,4,True
+FAC202100143,ID,Psychiatric Hospital,1046.0,172.0,209.0,"Individual Therapy, Medication Management, Case Management, Telehealth Services, Substance Abuse Treatment, Child and Adolescent Services",True,2021,Suburban,2,6.1,6,False
+FAC202100144,DE,Veterans Affairs Medical Center,2425.0,166.0,266.0,"Crisis Intervention, Group Therapy, Child and Adolescent Services, Substance Abuse Treatment",False,2021,Urban,3,14.6,4,False
+FAC202100145,TN,Psychiatric Hospital,4286.0,60.0,118.0,"Case Management, Individual Therapy",False,2021,Suburban,4,71.4,2,True
+FAC202100146,CA,Private Practice,1405.0,95.0,35.0,"Individual Therapy, Crisis Intervention, Case Management",False,2021,Rural,1,14.8,3,False
+FAC202100147,AK,Psychiatric Hospital,1791.0,40.0,189.0,Individual Therapy,True,2021,Urban,1,44.8,1,False
+FAC202100148,SC,State Mental Hospital,2425.0,95.0,80.0,"Case Management, Group Therapy, Crisis Intervention, Medication Management, Child and Adolescent Services",True,2021,Urban,2,25.5,5,False
+FAC202100149,WY,Veterans Affairs Medical Center,4513.0,61.0,37.0,"Crisis Intervention, Individual Therapy, Case Management, Group Therapy, Medication Management",True,2021,Rural,4,74.0,5,True
+FAC202100150,KS,School Based Program,1761.0,98.0,154.0,Crisis Intervention,True,2021,Rural,11,18.0,1,False
+FAC202100151,OR,Residential Treatment Center,3213.0,5.0,157.0,Group Therapy,False,2021,Rural,8,642.6,1,True
+FAC202100152,GA,Residential Treatment Center,3577.0,165.0,227.0,"Case Management, Group Therapy, Child and Adolescent Services, Substance Abuse Treatment, Crisis Intervention, Individual Therapy, Medication Management",True,2021,Urban,11,21.7,7,False
+FAC202100153,NM,State Mental Hospital,4260.0,144.0,165.0,Case Management,True,2021,Urban,3,29.6,1,False
+FAC202100154,RI,Residential Treatment Center,2425.0,74.0,58.0,Child and Adolescent Services,False,2021,Suburban,8,32.8,1,False
+FAC202100155,CT,Residential Treatment Center,3663.0,95.0,156.0,"Crisis Intervention, Group Therapy, Telehealth Services, Medication Management, Individual Therapy",False,2021,Suburban,11,38.6,5,False
+FAC202100156,VA,State Mental Hospital,3847.0,95.0,237.0,"Crisis Intervention, Group Therapy, Substance Abuse Treatment, Case Management, Individual Therapy",False,2021,Urban,10,40.5,5,False
+FAC202100157,HI,Community Mental Health Center,3126.0,178.0,44.0,"Case Management, Group Therapy, Child and Adolescent Services, Substance Abuse Treatment",True,2021,Urban,5,17.6,4,False
+FAC202100158,CA,Community Mental Health Center,897.0,115.0,195.0,"Substance Abuse Treatment, Telehealth Services, Crisis Intervention, Child and Adolescent Services, Individual Therapy, Medication Management",True,2021,Suburban,8,7.8,6,False
+FAC202100159,NV,Veterans Affairs Medical Center,254.0,67.0,216.0,"Medication Management, Group Therapy, Telehealth Services, Substance Abuse Treatment, Individual Therapy",True,2021,Suburban,10,3.8,5,False
+FAC202100160,CO,School Based Program,4275.0,104.0,284.0,"Case Management, Substance Abuse Treatment, Individual Therapy, Telehealth Services, Medication Management, Group Therapy",True,2021,Urban,4,41.1,6,False
+FAC202100161,OH,Private Practice,2425.0,56.0,154.0,Crisis Intervention,False,2021,Rural,2,43.3,1,False
+FAC202100162,OK,School Based Program,1186.0,94.0,154.0,"Medication Management, Crisis Intervention, Telehealth Services, Substance Abuse Treatment, Individual Therapy",True,2021,Urban,7,12.6,5,False
+FAC202100163,AZ,School Based Program,1349.0,31.0,154.0,"Substance Abuse Treatment, Medication Management",False,2021,Rural,9,43.5,2,False
+FAC202100164,WI,Private Practice,613.0,197.0,154.0,"Substance Abuse Treatment, Telehealth Services, Case Management, Child and Adolescent Services, Medication Management",False,2021,Rural,4,3.1,5,False
+FAC202100165,NC,Private Practice,2940.0,151.0,127.0,"Individual Therapy, Crisis Intervention, Group Therapy",True,2021,Urban,1,19.5,3,False
+FAC202100166,MS,Veterans Affairs Medical Center,2157.0,156.0,154.0,"Individual Therapy, Medication Management, Substance Abuse Treatment, Crisis Intervention, Case Management, Telehealth Services, Group Therapy",True,2021,Rural,6,13.8,7,False
+FAC202100167,MA,School Based Program,1954.0,88.0,73.0,"Individual Therapy, Crisis Intervention, Substance Abuse Treatment, Medication Management",False,2021,Urban,7,22.2,4,False
+FAC202100168,NV,Outpatient Clinic,2510.0,180.0,218.0,"Substance Abuse Treatment, Crisis Intervention, Individual Therapy",False,2021,Urban,1,13.9,3,False
+FAC202100169,WY,Psychiatric Hospital,3131.0,44.0,154.0,"Crisis Intervention, Substance Abuse Treatment, Telehealth Services, Individual Therapy",True,2021,Urban,1,71.2,4,True
+FAC202100170,WA,Psychiatric Hospital,3149.0,124.0,113.0,"Telehealth Services, Crisis Intervention, Individual Therapy, Group Therapy, Substance Abuse Treatment",False,2021,Rural,10,25.4,5,False
+FAC202100171,UT,School Based Program,1144.0,17.0,289.0,"Medication Management, Telehealth Services",True,2021,Suburban,8,67.3,2,True
+FAC202100172,NY,Psychiatric Hospital,3111.0,179.0,29.0,Telehealth Services,True,2021,Suburban,2,17.4,1,False
+FAC202100173,MA,Psychiatric Hospital,3355.0,120.0,206.0,"Medication Management, Substance Abuse Treatment",False,2021,Rural,7,28.0,2,False
+FAC202100174,MA,State Mental Hospital,1616.0,97.0,91.0,"Group Therapy, Individual Therapy, Substance Abuse Treatment, Child and Adolescent Services, Case Management",True,2021,Rural,2,16.7,5,False
+FAC202100175,DE,School Based Program,2425.0,149.0,96.0,"Group Therapy, Telehealth Services, Substance Abuse Treatment",True,2021,Suburban,4,16.3,3,False
+FAC202100176,OR,Community Mental Health Center,2789.0,124.0,37.0,"Crisis Intervention, Group Therapy, Individual Therapy, Case Management, Child and Adolescent Services",False,2021,Rural,10,22.5,5,False
+FAC202100177,AR,Veterans Affairs Medical Center,2425.0,33.0,154.0,"Case Management, Telehealth Services",True,2021,Urban,8,73.5,2,True
+FAC202100178,IL,Residential Treatment Center,706.0,19.0,154.0,"Crisis Intervention, Telehealth Services, Individual Therapy, Substance Abuse Treatment, Group Therapy",False,2021,Urban,5,37.2,5,False
+FAC202100179,UT,Residential Treatment Center,1895.0,167.0,154.0,Telehealth Services,False,2021,Suburban,9,11.3,1,False
+FAC202100180,IA,Veterans Affairs Medical Center,3343.0,37.0,70.0,"Crisis Intervention, Case Management, Group Therapy, Child and Adolescent Services",False,2021,Suburban,8,90.4,4,True
+FAC202100181,DC,State Mental Hospital,3702.0,95.0,154.0,"Child and Adolescent Services, Individual Therapy, Substance Abuse Treatment",False,2021,Suburban,6,39.0,3,False
+FAC202100182,PA,Outpatient Clinic,102.0,103.0,178.0,Medication Management,False,2021,Suburban,2,1.0,1,False
+FAC202100183,CO,State Mental Hospital,2837.0,63.0,154.0,"Individual Therapy, Medication Management, Substance Abuse Treatment, Crisis Intervention, Telehealth Services, Case Management, Child and Adolescent Services",False,2021,Suburban,2,45.0,7,False
+FAC202100184,AZ,School Based Program,2425.0,127.0,234.0,"Telehealth Services, Crisis Intervention, Case Management, Individual Therapy",False,2021,Rural,11,19.1,4,False
+FAC202100185,VA,Community Mental Health Center,3659.0,8.0,124.0,"Case Management, Child and Adolescent Services, Group Therapy",True,2021,Suburban,11,457.4,3,True
+FAC202100186,DE,Outpatient Clinic,2425.0,42.0,154.0,"Group Therapy, Child and Adolescent Services, Telehealth Services, Crisis Intervention, Individual Therapy, Case Management, Substance Abuse Treatment",True,2021,Suburban,4,57.7,7,True
+FAC202100187,MT,Community Mental Health Center,2425.0,147.0,215.0,"Medication Management, Telehealth Services, Child and Adolescent Services, Crisis Intervention, Case Management, Group Therapy, Substance Abuse Treatment",False,2021,Rural,6,16.5,7,False
+FAC202100188,TN,Psychiatric Hospital,2415.0,139.0,100.0,Child and Adolescent Services,True,2021,Urban,9,17.4,1,False
+FAC202100189,WY,Psychiatric Hospital,3575.0,74.0,155.0,Crisis Intervention,True,2021,Suburban,12,48.3,1,False
+FAC202100190,MN,State Mental Hospital,2028.0,57.0,262.0,Individual Therapy,True,2021,Suburban,9,35.6,1,False
+FAC202100191,DE,State Mental Hospital,296.0,181.0,178.0,"Child and Adolescent Services, Individual Therapy, Case Management, Crisis Intervention, Telehealth Services, Substance Abuse Treatment",False,2021,Rural,10,1.6,6,False
+FAC202100192,CA,Private Practice,3149.0,84.0,154.0,"Group Therapy, Medication Management, Crisis Intervention, Case Management, Child and Adolescent Services, Telehealth Services",True,2021,Suburban,2,37.5,6,False
+FAC202100193,VA,Residential Treatment Center,2425.0,95.0,103.0,"Crisis Intervention, Group Therapy, Case Management, Child and Adolescent Services",True,2021,Urban,3,25.5,4,False
+FAC202100194,NH,Outpatient Clinic,1437.0,59.0,97.0,"Crisis Intervention, Medication Management, Individual Therapy, Substance Abuse Treatment, Group Therapy",False,2021,Urban,7,24.4,5,False
+FAC202100195,OH,Outpatient Clinic,1849.0,37.0,101.0,"Case Management, Individual Therapy",True,2021,Suburban,5,50.0,2,False
+FAC202100196,SD,Private Practice,745.0,189.0,31.0,"Medication Management, Telehealth Services, Substance Abuse Treatment, Group Therapy, Individual Therapy, Case Management",True,2021,Urban,7,3.9,6,False
+FAC202100197,KY,State Mental Hospital,3264.0,69.0,166.0,"Telehealth Services, Case Management, Group Therapy, Medication Management",True,2021,Suburban,1,47.3,4,False
+FAC202100198,VT,Veterans Affairs Medical Center,4351.0,83.0,35.0,"Substance Abuse Treatment, Medication Management, Case Management, Child and Adolescent Services, Group Therapy, Telehealth Services, Crisis Intervention",False,2021,Urban,9,52.4,7,True
+FAC202100199,NJ,School Based Program,2425.0,21.0,120.0,"Substance Abuse Treatment, Child and Adolescent Services",True,2021,Rural,1,115.5,2,True
+FAC202100200,MT,Psychiatric Hospital,3144.0,160.0,207.0,"Group Therapy, Telehealth Services, Case Management",False,2021,Urban,7,19.6,3,False
+FAC202100201,NV,State Mental Hospital,1959.0,95.0,31.0,"Telehealth Services, Child and Adolescent Services, Individual Therapy, Case Management, Group Therapy, Medication Management",False,2021,Rural,5,20.6,6,False
+FAC202100202,SD,Outpatient Clinic,1265.0,166.0,64.0,"Telehealth Services, Group Therapy, Child and Adolescent Services, Case Management, Individual Therapy, Medication Management",True,2021,Suburban,3,7.6,6,False
+FAC202100203,ND,Residential Treatment Center,3702.0,174.0,256.0,"Crisis Intervention, Group Therapy",False,2021,Suburban,2,21.3,2,False
+FAC202100204,HI,Psychiatric Hospital,2752.0,47.0,31.0,"Group Therapy, Individual Therapy, Crisis Intervention, Medication Management, Child and Adolescent Services, Telehealth Services",False,2021,Suburban,2,58.6,6,True
+FAC202100205,VA,Private Practice,290.0,80.0,154.0,"Individual Therapy, Substance Abuse Treatment, Case Management",True,2021,Suburban,8,3.6,3,False
+FAC202100206,MN,Veterans Affairs Medical Center,2771.0,157.0,11.0,"Telehealth Services, Individual Therapy, Case Management, Substance Abuse Treatment, Crisis Intervention, Child and Adolescent Services",False,2021,Urban,1,17.6,6,False
+FAC202100207,CT,Community Mental Health Center,1831.0,140.0,4.0,"Child and Adolescent Services, Individual Therapy, Substance Abuse Treatment, Telehealth Services, Crisis Intervention, Medication Management",False,2021,Suburban,5,13.1,6,False
+FAC202100208,SC,Community Mental Health Center,1118.0,95.0,154.0,"Individual Therapy, Telehealth Services, Child and Adolescent Services, Medication Management, Substance Abuse Treatment, Group Therapy",False,2021,Suburban,9,11.8,6,False
+FAC202100209,CA,School Based Program,2152.0,95.0,137.0,"Medication Management, Case Management, Substance Abuse Treatment, Crisis Intervention",True,2021,Suburban,3,22.7,4,False
+FAC202100210,MT,Veterans Affairs Medical Center,1417.0,31.0,16.0,"Individual Therapy, Substance Abuse Treatment",False,2021,Rural,5,45.7,2,False
+FAC202100211,MD,Residential Treatment Center,2013.0,149.0,130.0,"Individual Therapy, Crisis Intervention, Group Therapy, Telehealth Services",True,2021,Suburban,5,13.5,4,False
+FAC202100212,NJ,Private Practice,2425.0,36.0,45.0,"Case Management, Medication Management",False,2021,Urban,9,67.4,2,True
+FAC202100213,NE,Private Practice,2760.0,68.0,154.0,"Case Management, Medication Management, Group Therapy",True,2021,Urban,1,40.6,3,False
+FAC202100214,ND,Psychiatric Hospital,2373.0,124.0,125.0,"Group Therapy, Medication Management, Child and Adolescent Services, Substance Abuse Treatment, Individual Therapy, Case Management, Crisis Intervention",False,2021,Urban,7,19.1,7,False
+FAC202100215,TX,Community Mental Health Center,2425.0,152.0,197.0,"Individual Therapy, Medication Management, Case Management",False,2021,Urban,11,16.0,3,False
+FAC202100216,AR,Residential Treatment Center,4759.0,190.0,165.0,Individual Therapy,False,2021,Suburban,8,25.0,1,False
+FAC202100217,MS,School Based Program,2425.0,52.0,199.0,"Individual Therapy, Crisis Intervention, Group Therapy, Case Management, Medication Management, Substance Abuse Treatment",True,2021,Suburban,7,46.6,6,False
+FAC202100218,DC,Veterans Affairs Medical Center,2425.0,97.0,117.0,"Child and Adolescent Services, Crisis Intervention",True,2021,Urban,10,25.0,2,False
+FAC202100219,ND,Veterans Affairs Medical Center,4972.0,23.0,62.0,"Medication Management, Crisis Intervention",False,2021,Suburban,11,216.2,2,True
+FAC202100220,VA,School Based Program,2094.0,138.0,127.0,"Medication Management, Child and Adolescent Services, Substance Abuse Treatment, Case Management, Telehealth Services, Individual Therapy, Crisis Intervention",True,2021,Urban,7,15.2,7,False
+FAC202100221,NV,Community Mental Health Center,232.0,178.0,154.0,"Group Therapy, Substance Abuse Treatment, Crisis Intervention, Telehealth Services, Child and Adolescent Services, Individual Therapy, Case Management",True,2021,Urban,11,1.3,7,False
+FAC202100222,MI,Private Practice,4798.0,62.0,45.0,"Substance Abuse Treatment, Telehealth Services, Child and Adolescent Services, Medication Management, Group Therapy",False,2021,Urban,9,77.4,5,True
+FAC202100223,MS,Private Practice,2425.0,68.0,41.0,"Case Management, Telehealth Services, Substance Abuse Treatment",True,2021,Rural,10,35.7,3,False
+FAC202100224,ME,Residential Treatment Center,2136.0,11.0,92.0,"Child and Adolescent Services, Crisis Intervention, Individual Therapy, Substance Abuse Treatment, Telehealth Services, Case Management, Group Therapy",True,2021,Rural,8,194.2,7,True
+FAC202100225,UT,State Mental Hospital,2425.0,184.0,12.0,"Child and Adolescent Services, Case Management, Crisis Intervention, Substance Abuse Treatment",True,2021,Suburban,8,13.2,4,False
+FAC202100226,SD,Community Mental Health Center,1337.0,12.0,188.0,Group Therapy,True,2021,Suburban,2,111.4,1,True
+FAC202100227,OK,Residential Treatment Center,4761.0,7.0,42.0,"Medication Management, Substance Abuse Treatment, Individual Therapy, Crisis Intervention",True,2021,Urban,11,680.1,4,True
+FAC202100228,WI,Private Practice,1277.0,138.0,240.0,"Child and Adolescent Services, Telehealth Services, Individual Therapy, Crisis Intervention, Medication Management, Substance Abuse Treatment",False,2021,Rural,4,9.3,6,False
+FAC202100229,TN,Outpatient Clinic,877.0,11.0,159.0,"Case Management, Medication Management",True,2021,Rural,1,79.7,2,True
+FAC202100230,AR,Veterans Affairs Medical Center,1737.0,123.0,13.0,"Telehealth Services, Medication Management, Substance Abuse Treatment, Child and Adolescent Services, Group Therapy, Case Management, Crisis Intervention",True,2021,Urban,4,14.1,7,False
+FAC202100231,NE,Community Mental Health Center,3522.0,8.0,69.0,"Crisis Intervention, Child and Adolescent Services, Case Management",True,2021,Urban,10,440.2,3,True
+FAC202100232,HI,Psychiatric Hospital,1919.0,110.0,218.0,"Medication Management, Crisis Intervention, Substance Abuse Treatment",False,2021,Suburban,8,17.4,3,False
+FAC202100233,OK,Psychiatric Hospital,681.0,95.0,270.0,"Substance Abuse Treatment, Telehealth Services, Medication Management, Crisis Intervention",True,2021,Suburban,3,7.2,4,False
+FAC202100234,NV,State Mental Hospital,1424.0,168.0,183.0,"Telehealth Services, Substance Abuse Treatment, Child and Adolescent Services, Case Management, Crisis Intervention",False,2021,Suburban,8,8.5,5,False
+FAC202100235,VT,Residential Treatment Center,3030.0,26.0,104.0,Child and Adolescent Services,True,2021,Suburban,11,116.5,1,True
+FAC202100236,MO,State Mental Hospital,1653.0,95.0,0.0,"Medication Management, Substance Abuse Treatment, Child and Adolescent Services, Case Management, Crisis Intervention, Group Therapy",False,2021,Suburban,7,17.4,6,False
+FAC202100237,LA,Community Mental Health Center,4824.0,99.0,21.0,"Group Therapy, Telehealth Services, Case Management, Crisis Intervention, Individual Therapy",False,2021,Rural,5,48.7,5,False
+FAC202100238,DE,School Based Program,687.0,37.0,154.0,"Crisis Intervention, Substance Abuse Treatment, Child and Adolescent Services, Case Management, Individual Therapy",True,2021,Rural,6,18.6,5,False
+FAC202100239,ME,Private Practice,4882.0,197.0,154.0,"Telehealth Services, Medication Management",False,2021,Rural,1,24.8,2,False
+FAC202100240,ID,Veterans Affairs Medical Center,619.0,125.0,196.0,Child and Adolescent Services,False,2021,Urban,6,5.0,1,False
+FAC202100241,NC,Community Mental Health Center,3836.0,66.0,170.0,"Child and Adolescent Services, Substance Abuse Treatment, Individual Therapy, Medication Management, Telehealth Services, Group Therapy, Crisis Intervention",False,2021,Rural,2,58.1,7,True
+FAC202100242,DC,Private Practice,2425.0,97.0,230.0,"Crisis Intervention, Substance Abuse Treatment",False,2021,Rural,7,25.0,2,False
+FAC202100243,OH,Psychiatric Hospital,2425.0,33.0,86.0,"Substance Abuse Treatment, Telehealth Services, Individual Therapy, Crisis Intervention",False,2021,Rural,5,73.5,4,True
+FAC202100244,SC,State Mental Hospital,4796.0,137.0,30.0,"Individual Therapy, Substance Abuse Treatment",True,2021,Rural,10,35.0,2,False
+FAC202100245,WV,Psychiatric Hospital,1118.0,179.0,90.0,"Individual Therapy, Substance Abuse Treatment, Child and Adolescent Services, Crisis Intervention, Telehealth Services",True,2021,Urban,12,6.2,5,False
+FAC202100246,WY,State Mental Hospital,992.0,63.0,172.0,"Individual Therapy, Telehealth Services, Crisis Intervention, Case Management, Medication Management",False,2021,Suburban,6,15.7,5,False
+FAC202100247,HI,Veterans Affairs Medical Center,2408.0,146.0,69.0,Child and Adolescent Services,True,2021,Rural,1,16.5,1,False
+FAC202100248,AL,Psychiatric Hospital,2626.0,122.0,40.0,Group Therapy,False,2021,Suburban,4,21.5,1,False
+FAC202100249,LA,School Based Program,2248.0,118.0,38.0,"Crisis Intervention, Medication Management, Telehealth Services, Case Management, Child and Adolescent Services, Group Therapy",True,2021,Urban,1,19.1,6,False
+FAC202100250,RI,Veterans Affairs Medical Center,804.0,31.0,7.0,"Child and Adolescent Services, Telehealth Services",True,2021,Urban,7,25.9,2,False
+FAC202100251,OK,Psychiatric Hospital,4373.0,95.0,88.0,"Case Management, Medication Management, Group Therapy, Substance Abuse Treatment, Telehealth Services",True,2021,Suburban,3,46.0,5,False
+FAC202100252,TN,School Based Program,4131.0,106.0,212.0,"Individual Therapy, Telehealth Services, Case Management, Crisis Intervention, Group Therapy, Substance Abuse Treatment",False,2021,Suburban,12,39.0,6,False
+FAC202100253,IN,Veterans Affairs Medical Center,1315.0,95.0,63.0,"Telehealth Services, Medication Management",True,2021,Rural,12,13.8,2,False
+FAC202100254,NV,School Based Program,3356.0,8.0,25.0,"Individual Therapy, Child and Adolescent Services, Medication Management, Case Management, Group Therapy, Telehealth Services, Substance Abuse Treatment",False,2021,Rural,3,419.5,7,True
+FAC202100255,DC,Veterans Affairs Medical Center,2425.0,129.0,277.0,Telehealth Services,True,2021,Suburban,9,18.8,1,False
+FAC202100256,ME,Outpatient Clinic,1676.0,9.0,154.0,"Group Therapy, Child and Adolescent Services, Case Management, Telehealth Services",False,2021,Rural,11,186.2,4,True
+FAC202100257,VT,Outpatient Clinic,2702.0,187.0,45.0,"Case Management, Substance Abuse Treatment, Telehealth Services, Crisis Intervention",False,2021,Urban,7,14.4,4,False
+FAC202100258,DC,Community Mental Health Center,758.0,12.0,154.0,"Crisis Intervention, Substance Abuse Treatment, Case Management, Group Therapy",False,2021,Rural,5,63.2,4,True
+FAC202100259,MD,Outpatient Clinic,4684.0,100.0,48.0,"Case Management, Medication Management, Telehealth Services, Crisis Intervention",True,2021,Urban,1,46.8,4,False
+FAC202100260,AR,State Mental Hospital,2949.0,123.0,284.0,"Medication Management, Individual Therapy, Crisis Intervention",True,2021,Suburban,9,24.0,3,False
+FAC202100261,GA,Community Mental Health Center,2087.0,95.0,154.0,Individual Therapy,True,2021,Rural,6,22.0,1,False
+FAC202100262,ND,Veterans Affairs Medical Center,153.0,64.0,164.0,"Group Therapy, Telehealth Services",False,2021,Rural,11,2.4,2,False
+FAC202100263,KY,State Mental Hospital,1800.0,178.0,75.0,"Telehealth Services, Individual Therapy, Medication Management, Case Management",True,2021,Rural,4,10.1,4,False
+FAC202100264,LA,Residential Treatment Center,543.0,95.0,154.0,"Individual Therapy, Medication Management, Child and Adolescent Services, Case Management, Substance Abuse Treatment",False,2021,Suburban,5,5.7,5,False
+FAC202100265,MO,Private Practice,4833.0,197.0,241.0,"Case Management, Child and Adolescent Services, Crisis Intervention, Group Therapy, Telehealth Services, Substance Abuse Treatment, Individual Therapy",True,2021,Urban,5,24.5,7,False
+FAC202100266,AR,Residential Treatment Center,4920.0,14.0,154.0,"Individual Therapy, Case Management, Crisis Intervention, Group Therapy, Substance Abuse Treatment",True,2021,Rural,10,351.4,5,True
+FAC202100267,NC,Outpatient Clinic,2021.0,95.0,192.0,"Individual Therapy, Crisis Intervention, Group Therapy, Telehealth Services, Substance Abuse Treatment, Case Management",False,2021,Urban,6,21.3,6,False
+FAC202100268,LA,Outpatient Clinic,3688.0,133.0,230.0,"Medication Management, Individual Therapy, Case Management, Substance Abuse Treatment, Child and Adolescent Services, Group Therapy",True,2021,Rural,11,27.7,6,False
+FAC202100269,WA,Psychiatric Hospital,543.0,180.0,213.0,"Child and Adolescent Services, Substance Abuse Treatment, Individual Therapy, Case Management",False,2021,Suburban,1,3.0,4,False
+FAC202100270,IN,Psychiatric Hospital,1043.0,123.0,27.0,Case Management,False,2021,Urban,9,8.5,1,False
+FAC202100271,LA,Veterans Affairs Medical Center,2425.0,32.0,275.0,"Child and Adolescent Services, Crisis Intervention, Individual Therapy, Medication Management, Substance Abuse Treatment, Group Therapy, Case Management",False,2021,Suburban,12,75.8,7,True
+FAC202100272,UT,Community Mental Health Center,2017.0,144.0,154.0,"Child and Adolescent Services, Telehealth Services, Crisis Intervention, Medication Management, Individual Therapy, Case Management",False,2021,Suburban,7,14.0,6,False
+FAC202100273,CA,Veterans Affairs Medical Center,3044.0,195.0,182.0,Group Therapy,False,2021,Urban,2,15.6,1,False
+FAC202100274,MI,Residential Treatment Center,4617.0,7.0,154.0,Individual Therapy,False,2021,Urban,10,659.6,1,True
+FAC202100275,DC,Community Mental Health Center,4234.0,89.0,154.0,"Telehealth Services, Medication Management",True,2021,Rural,8,47.6,2,False
+FAC202100276,VA,Psychiatric Hospital,4304.0,28.0,154.0,Substance Abuse Treatment,True,2021,Suburban,2,153.7,1,True
+FAC202100277,WI,Private Practice,4287.0,87.0,121.0,"Child and Adolescent Services, Group Therapy, Crisis Intervention, Substance Abuse Treatment",False,2021,Suburban,7,49.3,4,False
+FAC202100278,ID,Private Practice,888.0,79.0,290.0,"Telehealth Services, Child and Adolescent Services, Group Therapy, Individual Therapy, Substance Abuse Treatment",True,2021,Suburban,8,11.2,5,False
+FAC202100279,IA,Private Practice,4992.0,83.0,11.0,"Substance Abuse Treatment, Telehealth Services, Case Management, Crisis Intervention, Group Therapy, Child and Adolescent Services, Individual Therapy",True,2021,Urban,9,60.1,7,True
+FAC202100280,AZ,School Based Program,2425.0,81.0,178.0,"Case Management, Crisis Intervention, Individual Therapy, Substance Abuse Treatment, Child and Adolescent Services, Group Therapy",True,2021,Urban,8,29.9,6,False
+FAC202100281,RI,Private Practice,3245.0,9.0,154.0,"Medication Management, Individual Therapy, Crisis Intervention, Child and Adolescent Services, Group Therapy, Case Management, Telehealth Services",False,2021,Suburban,8,360.6,7,True
+FAC202100282,CT,Outpatient Clinic,1376.0,21.0,199.0,"Substance Abuse Treatment, Telehealth Services, Case Management, Individual Therapy, Group Therapy, Medication Management, Crisis Intervention",True,2021,Suburban,3,65.5,7,True
+FAC202100283,NJ,School Based Program,1141.0,95.0,39.0,"Medication Management, Telehealth Services, Substance Abuse Treatment",False,2021,Urban,8,12.0,3,False
+FAC202100284,OR,Psychiatric Hospital,1230.0,70.0,6.0,"Child and Adolescent Services, Crisis Intervention, Substance Abuse Treatment, Case Management, Medication Management, Individual Therapy",False,2021,Suburban,4,17.6,6,False
+FAC202100285,AR,Outpatient Clinic,1932.0,95.0,15.0,"Substance Abuse Treatment, Individual Therapy, Case Management, Group Therapy, Medication Management",True,2021,Suburban,11,20.3,5,False
+FAC202100286,MA,Private Practice,4446.0,95.0,22.0,"Individual Therapy, Crisis Intervention, Telehealth Services, Substance Abuse Treatment, Medication Management, Case Management",True,2021,Suburban,5,46.8,6,False
+FAC202100287,CA,State Mental Hospital,4327.0,26.0,249.0,"Individual Therapy, Case Management, Medication Management, Crisis Intervention, Group Therapy",False,2021,Suburban,1,166.4,5,True
+FAC202100288,WY,Veterans Affairs Medical Center,2425.0,95.0,103.0,"Case Management, Group Therapy",False,2021,Suburban,9,25.5,2,False
+FAC202100289,WA,State Mental Hospital,4067.0,198.0,154.0,"Telehealth Services, Case Management",True,2021,Suburban,8,20.5,2,False
+FAC202100290,OH,Residential Treatment Center,2726.0,13.0,154.0,"Individual Therapy, Group Therapy, Case Management, Crisis Intervention, Substance Abuse Treatment",False,2021,Urban,4,209.7,5,True
+FAC202100291,AK,Community Mental Health Center,4304.0,138.0,241.0,"Substance Abuse Treatment, Child and Adolescent Services, Medication Management",True,2021,Urban,4,31.2,3,False
+FAC202100292,SC,Community Mental Health Center,117.0,6.0,114.0,"Telehealth Services, Child and Adolescent Services, Case Management",True,2021,Rural,12,19.5,3,False
+FAC202100293,NE,Community Mental Health Center,2355.0,45.0,225.0,Case Management,False,2021,Rural,11,52.3,1,True
+FAC202100294,HI,Residential Treatment Center,2425.0,67.0,154.0,"Case Management, Substance Abuse Treatment, Telehealth Services, Individual Therapy, Medication Management",False,2021,Urban,8,36.2,5,False
+FAC202100295,NY,Residential Treatment Center,2425.0,163.0,113.0,"Telehealth Services, Crisis Intervention, Substance Abuse Treatment, Case Management, Individual Therapy, Child and Adolescent Services, Group Therapy",True,2021,Rural,12,14.9,7,False
+FAC202100296,CA,School Based Program,3297.0,131.0,51.0,Individual Therapy,False,2021,Suburban,1,25.2,1,False
+FAC202100297,LA,Private Practice,2910.0,190.0,264.0,"Substance Abuse Treatment, Crisis Intervention, Individual Therapy",True,2021,Suburban,2,15.3,3,False
+FAC202100298,NC,State Mental Hospital,4206.0,66.0,235.0,"Individual Therapy, Group Therapy, Child and Adolescent Services, Telehealth Services, Substance Abuse Treatment, Case Management, Medication Management",False,2021,Suburban,2,63.7,7,True
+FAC202100299,ME,Community Mental Health Center,1679.0,111.0,103.0,Individual Therapy,True,2021,Rural,12,15.1,1,False
+FAC202100300,KS,Veterans Affairs Medical Center,3596.0,6.0,181.0,"Crisis Intervention, Case Management, Telehealth Services, Individual Therapy, Medication Management, Group Therapy, Child and Adolescent Services",True,2021,Rural,3,599.3,7,True
+FAC202100301,PA,School Based Program,1572.0,147.0,154.0,"Case Management, Child and Adolescent Services, Individual Therapy, Substance Abuse Treatment, Medication Management",False,2021,Rural,7,10.7,5,False
+FAC202100302,MA,Residential Treatment Center,4837.0,17.0,154.0,"Medication Management, Substance Abuse Treatment, Individual Therapy",False,2021,Rural,6,284.5,3,True
+FAC202100303,MA,Residential Treatment Center,2334.0,9.0,30.0,"Substance Abuse Treatment, Telehealth Services, Crisis Intervention, Child and Adolescent Services, Individual Therapy, Medication Management, Group Therapy",False,2021,Rural,8,259.3,7,True
+FAC202100304,DE,School Based Program,3759.0,95.0,9.0,"Group Therapy, Medication Management, Child and Adolescent Services, Substance Abuse Treatment",False,2021,Suburban,2,39.6,4,False
+FAC202100305,IA,Community Mental Health Center,1569.0,118.0,154.0,"Child and Adolescent Services, Case Management, Crisis Intervention",True,2021,Suburban,6,13.3,3,False
+FAC202100306,FL,Private Practice,180.0,159.0,154.0,Individual Therapy,False,2021,Rural,8,1.1,1,False
+FAC202100307,WV,Outpatient Clinic,2325.0,95.0,154.0,"Child and Adolescent Services, Telehealth Services, Individual Therapy, Case Management, Substance Abuse Treatment, Crisis Intervention",False,2021,Urban,3,24.5,6,False
+FAC202100308,ND,State Mental Hospital,3773.0,62.0,132.0,Group Therapy,False,2021,Suburban,1,60.9,1,True
+FAC202100309,WV,School Based Program,439.0,68.0,178.0,"Telehealth Services, Child and Adolescent Services",False,2021,Urban,1,6.5,2,False
+FAC202100310,DC,State Mental Hospital,2184.0,18.0,77.0,Case Management,True,2021,Urban,4,121.3,1,True
+FAC202100311,PA,School Based Program,4758.0,111.0,154.0,"Substance Abuse Treatment, Telehealth Services, Medication Management, Child and Adolescent Services, Individual Therapy, Crisis Intervention, Case Management",True,2021,Urban,1,42.9,7,False
+FAC202100312,IL,Private Practice,3988.0,179.0,105.0,"Substance Abuse Treatment, Medication Management, Telehealth Services, Individual Therapy",False,2021,Urban,5,22.3,4,False
+FAC202100313,SD,Outpatient Clinic,2164.0,32.0,129.0,"Child and Adolescent Services, Medication Management, Individual Therapy",True,2021,Suburban,8,67.6,3,True
+FAC202100314,MI,Community Mental Health Center,2425.0,14.0,96.0,"Crisis Intervention, Individual Therapy, Substance Abuse Treatment, Medication Management, Group Therapy",False,2021,Urban,1,173.2,5,True
+FAC202100315,MD,Psychiatric Hospital,800.0,22.0,92.0,"Substance Abuse Treatment, Medication Management, Individual Therapy, Crisis Intervention, Child and Adolescent Services, Group Therapy, Case Management",False,2021,Urban,9,36.4,7,False
+FAC202100316,TX,Private Practice,4929.0,34.0,154.0,"Case Management, Telehealth Services, Child and Adolescent Services, Crisis Intervention, Individual Therapy, Group Therapy, Medication Management",False,2021,Rural,11,145.0,7,True
+FAC202100317,KY,Psychiatric Hospital,4339.0,68.0,154.0,"Case Management, Substance Abuse Treatment, Crisis Intervention",False,2021,Suburban,9,63.8,3,True
+FAC202100318,MI,Community Mental Health Center,2425.0,19.0,154.0,"Medication Management, Crisis Intervention, Individual Therapy, Child and Adolescent Services, Substance Abuse Treatment, Case Management, Telehealth Services",True,2021,Rural,7,127.6,7,True
+FAC202100319,KS,Outpatient Clinic,4397.0,170.0,125.0,"Individual Therapy, Telehealth Services, Group Therapy, Substance Abuse Treatment",True,2021,Urban,10,25.9,4,False
+FAC202100320,TN,Veterans Affairs Medical Center,987.0,64.0,188.0,Telehealth Services,True,2021,Urban,5,15.4,1,False
+FAC202100321,VA,School Based Program,1456.0,81.0,238.0,"Medication Management, Substance Abuse Treatment, Crisis Intervention",True,2021,Suburban,12,18.0,3,False
+FAC202100322,MN,Psychiatric Hospital,2425.0,60.0,154.0,"Child and Adolescent Services, Telehealth Services, Group Therapy, Case Management, Substance Abuse Treatment",True,2021,Urban,1,40.4,5,False
+FAC202100323,MA,Private Practice,1640.0,146.0,121.0,"Telehealth Services, Case Management, Substance Abuse Treatment",True,2021,Urban,11,11.2,3,False
+FAC202100324,NM,School Based Program,2425.0,145.0,278.0,"Child and Adolescent Services, Individual Therapy, Group Therapy, Medication Management, Case Management",True,2021,Urban,11,16.7,5,False
+FAC202100325,FL,Veterans Affairs Medical Center,3143.0,185.0,154.0,"Individual Therapy, Substance Abuse Treatment, Group Therapy",True,2021,Rural,10,17.0,3,False
+FAC202100326,MA,School Based Program,786.0,95.0,282.0,"Medication Management, Child and Adolescent Services, Case Management, Individual Therapy, Crisis Intervention, Substance Abuse Treatment",False,2021,Urban,12,8.3,6,False
+FAC202100327,VT,State Mental Hospital,2425.0,16.0,240.0,"Child and Adolescent Services, Case Management, Crisis Intervention",False,2021,Rural,1,151.6,3,True
+FAC202100328,CO,Community Mental Health Center,4761.0,97.0,216.0,"Substance Abuse Treatment, Group Therapy, Telehealth Services, Medication Management, Case Management, Child and Adolescent Services, Crisis Intervention",False,2021,Suburban,11,49.1,7,False
+FAC202100329,SD,Veterans Affairs Medical Center,2507.0,196.0,143.0,"Child and Adolescent Services, Telehealth Services, Crisis Intervention, Substance Abuse Treatment, Medication Management, Individual Therapy",False,2021,Suburban,6,12.8,6,False
+FAC202100330,AR,Community Mental Health Center,1178.0,78.0,245.0,"Individual Therapy, Telehealth Services, Child and Adolescent Services, Group Therapy, Substance Abuse Treatment",True,2021,Rural,4,15.1,5,False
+FAC202100331,HI,Outpatient Clinic,745.0,18.0,278.0,"Child and Adolescent Services, Substance Abuse Treatment, Crisis Intervention, Medication Management, Case Management",False,2021,Suburban,10,41.4,5,False
+FAC202100332,HI,Veterans Affairs Medical Center,770.0,8.0,97.0,Telehealth Services,True,2021,Suburban,10,96.2,1,True
+FAC202100333,VT,Outpatient Clinic,1134.0,95.0,106.0,"Group Therapy, Child and Adolescent Services, Substance Abuse Treatment, Telehealth Services",True,2021,Urban,9,11.9,4,False
+FAC202100334,KY,State Mental Hospital,2425.0,116.0,160.0,"Child and Adolescent Services, Medication Management, Individual Therapy, Case Management, Crisis Intervention, Group Therapy, Telehealth Services",True,2021,Urban,1,20.9,7,False
+FAC202100335,AZ,School Based Program,2425.0,95.0,154.0,"Crisis Intervention, Group Therapy, Individual Therapy, Telehealth Services, Child and Adolescent Services",True,2021,Rural,6,25.5,5,False
+FAC202100336,GA,Residential Treatment Center,1353.0,182.0,66.0,Telehealth Services,False,2021,Rural,6,7.4,1,False
+FAC202100337,ND,Outpatient Clinic,555.0,6.0,9.0,"Case Management, Crisis Intervention, Medication Management, Substance Abuse Treatment, Individual Therapy",False,2021,Suburban,10,92.5,5,True
+FAC202100338,MT,Veterans Affairs Medical Center,1575.0,173.0,237.0,"Group Therapy, Crisis Intervention, Individual Therapy, Case Management, Substance Abuse Treatment, Medication Management",True,2021,Urban,8,9.1,6,False
+FAC202100339,MS,Community Mental Health Center,2425.0,95.0,294.0,"Individual Therapy, Telehealth Services, Child and Adolescent Services, Medication Management, Crisis Intervention, Substance Abuse Treatment",False,2021,Urban,8,25.5,6,False
+FAC202100340,NV,School Based Program,297.0,197.0,27.0,"Telehealth Services, Child and Adolescent Services, Case Management, Group Therapy, Substance Abuse Treatment",False,2021,Rural,6,1.5,5,False
+FAC202100341,NC,Outpatient Clinic,4748.0,146.0,154.0,"Crisis Intervention, Telehealth Services, Substance Abuse Treatment, Individual Therapy, Group Therapy, Case Management",True,2021,Rural,4,32.5,6,False
+FAC202100342,MD,Veterans Affairs Medical Center,3318.0,29.0,145.0,"Group Therapy, Individual Therapy, Case Management",True,2021,Urban,9,114.4,3,True
+FAC202100343,NE,Psychiatric Hospital,2979.0,111.0,132.0,"Crisis Intervention, Medication Management",True,2021,Urban,8,26.8,2,False
+FAC202100344,WI,State Mental Hospital,807.0,58.0,232.0,"Telehealth Services, Group Therapy, Individual Therapy",True,2021,Suburban,7,13.9,3,False
+FAC202100345,FL,Private Practice,2050.0,32.0,67.0,Group Therapy,False,2021,Suburban,6,64.1,1,True
+FAC202100346,NM,Veterans Affairs Medical Center,2425.0,125.0,98.0,"Medication Management, Child and Adolescent Services, Substance Abuse Treatment, Group Therapy, Telehealth Services",True,2021,Rural,9,19.4,5,False
+FAC202100347,MA,Private Practice,3618.0,37.0,213.0,"Medication Management, Child and Adolescent Services, Individual Therapy, Telehealth Services",False,2021,Rural,8,97.8,4,True
+FAC202100348,TX,School Based Program,2425.0,199.0,118.0,"Telehealth Services, Crisis Intervention",True,2021,Urban,3,12.2,2,False
+FAC202100349,WV,Outpatient Clinic,4820.0,82.0,246.0,"Crisis Intervention, Case Management, Group Therapy, Telehealth Services, Child and Adolescent Services, Substance Abuse Treatment",False,2021,Urban,7,58.8,6,True
+FAC202100350,NY,Private Practice,3784.0,105.0,225.0,"Telehealth Services, Crisis Intervention, Case Management, Substance Abuse Treatment, Child and Adolescent Services, Medication Management",False,2021,Urban,5,36.0,6,False
+FAC202100351,IL,Veterans Affairs Medical Center,1728.0,99.0,74.0,"Group Therapy, Substance Abuse Treatment, Case Management, Child and Adolescent Services, Crisis Intervention, Medication Management",True,2021,Suburban,3,17.5,6,False
+FAC202100352,NM,Psychiatric Hospital,3922.0,99.0,298.0,"Group Therapy, Crisis Intervention, Child and Adolescent Services, Medication Management, Substance Abuse Treatment, Case Management, Individual Therapy",True,2021,Urban,8,39.6,7,False
+FAC202100353,RI,School Based Program,2139.0,123.0,39.0,"Case Management, Child and Adolescent Services, Telehealth Services, Medication Management, Substance Abuse Treatment",False,2021,Urban,4,17.4,5,False
+FAC202100354,MS,Residential Treatment Center,2425.0,70.0,292.0,"Medication Management, Substance Abuse Treatment, Group Therapy",True,2021,Urban,1,34.6,3,False
+FAC202100355,WI,School Based Program,1028.0,161.0,187.0,"Child and Adolescent Services, Medication Management, Telehealth Services",True,2021,Rural,5,6.4,3,False
+FAC202100356,OK,Community Mental Health Center,3762.0,70.0,273.0,"Telehealth Services, Crisis Intervention, Substance Abuse Treatment, Group Therapy",True,2021,Urban,1,53.7,4,True
+FAC202100357,DC,Community Mental Health Center,2425.0,36.0,268.0,Crisis Intervention,False,2021,Rural,11,67.4,1,True
+FAC202100358,TN,Residential Treatment Center,1455.0,63.0,17.0,"Individual Therapy, Substance Abuse Treatment, Case Management, Child and Adolescent Services, Medication Management, Group Therapy",True,2021,Rural,3,23.1,6,False
+FAC202100359,ND,Private Practice,4978.0,131.0,287.0,"Substance Abuse Treatment, Child and Adolescent Services, Crisis Intervention, Individual Therapy, Medication Management, Case Management, Telehealth Services",False,2021,Suburban,3,38.0,7,False
+FAC202100360,LA,Private Practice,4298.0,53.0,98.0,"Medication Management, Substance Abuse Treatment, Child and Adolescent Services, Telehealth Services, Case Management, Group Therapy, Individual Therapy",True,2021,Rural,3,81.1,7,True
+FAC202100361,IA,Veterans Affairs Medical Center,3718.0,95.0,23.0,"Group Therapy, Crisis Intervention",False,2021,Suburban,11,39.1,2,False
+FAC202100362,AK,Outpatient Clinic,374.0,122.0,199.0,"Individual Therapy, Group Therapy, Medication Management, Child and Adolescent Services, Telehealth Services, Case Management",False,2021,Suburban,12,3.1,6,False
+FAC202100363,TN,Community Mental Health Center,4131.0,132.0,154.0,"Individual Therapy, Crisis Intervention, Case Management, Medication Management, Substance Abuse Treatment",False,2021,Urban,11,31.3,5,False
+FAC202100364,IN,Residential Treatment Center,583.0,145.0,205.0,"Individual Therapy, Telehealth Services",False,2021,Rural,5,4.0,2,False
+FAC202100365,MI,State Mental Hospital,2425.0,14.0,254.0,"Group Therapy, Medication Management, Crisis Intervention, Substance Abuse Treatment",True,2021,Rural,4,173.2,4,True
+FAC202100366,OR,Psychiatric Hospital,3004.0,69.0,50.0,"Individual Therapy, Medication Management, Substance Abuse Treatment, Group Therapy, Child and Adolescent Services",False,2021,Rural,10,43.5,5,False
+FAC202100367,NJ,Psychiatric Hospital,2425.0,179.0,80.0,"Case Management, Telehealth Services, Substance Abuse Treatment, Individual Therapy, Medication Management, Child and Adolescent Services",True,2021,Suburban,11,13.5,6,False
+FAC202100368,TX,Private Practice,1010.0,138.0,138.0,Crisis Intervention,False,2021,Urban,10,7.3,1,False
+FAC202100369,MT,Psychiatric Hospital,4182.0,11.0,154.0,Group Therapy,True,2021,Rural,5,380.2,1,True
+FAC202100370,NV,Outpatient Clinic,4303.0,114.0,4.0,"Group Therapy, Crisis Intervention, Case Management, Individual Therapy",False,2021,Suburban,1,37.7,4,False
+FAC202100371,NE,Community Mental Health Center,4304.0,37.0,70.0,"Individual Therapy, Crisis Intervention, Medication Management, Case Management, Substance Abuse Treatment, Child and Adolescent Services, Telehealth Services",False,2021,Urban,8,116.3,7,True
+FAC202100372,NC,Psychiatric Hospital,2901.0,179.0,52.0,"Telehealth Services, Group Therapy, Individual Therapy, Medication Management, Case Management, Child and Adolescent Services, Substance Abuse Treatment",True,2021,Suburban,12,16.2,7,False
+FAC202100373,NH,Private Practice,2346.0,174.0,128.0,"Substance Abuse Treatment, Crisis Intervention, Medication Management, Telehealth Services, Individual Therapy",True,2021,Urban,9,13.5,5,False
+FAC202100374,IA,State Mental Hospital,832.0,57.0,290.0,"Substance Abuse Treatment, Telehealth Services, Group Therapy",False,2021,Rural,2,14.6,3,False
+FAC202100375,TX,Outpatient Clinic,4229.0,121.0,58.0,"Medication Management, Child and Adolescent Services",True,2021,Urban,8,35.0,2,False
+FAC202100376,RI,Psychiatric Hospital,2225.0,49.0,233.0,"Group Therapy, Medication Management, Case Management, Crisis Intervention, Substance Abuse Treatment",True,2021,Rural,10,45.4,5,False
+FAC202100377,DC,Residential Treatment Center,4648.0,180.0,154.0,"Individual Therapy, Telehealth Services, Substance Abuse Treatment, Medication Management",False,2021,Suburban,1,25.8,4,False
+FAC202100378,WI,Veterans Affairs Medical Center,2425.0,95.0,5.0,"Crisis Intervention, Case Management, Telehealth Services, Individual Therapy",True,2021,Rural,12,25.5,4,False
+FAC202100379,IA,State Mental Hospital,2304.0,27.0,16.0,"Group Therapy, Telehealth Services, Substance Abuse Treatment",False,2021,Suburban,8,85.3,3,True
+FAC202100380,NV,State Mental Hospital,3794.0,59.0,165.0,"Telehealth Services, Crisis Intervention, Medication Management, Group Therapy",True,2021,Urban,8,64.3,4,True
+FAC202100381,WY,Outpatient Clinic,2425.0,93.0,192.0,"Substance Abuse Treatment, Group Therapy, Case Management, Medication Management, Child and Adolescent Services",True,2021,Suburban,2,26.1,5,False
+FAC202100382,SC,Private Practice,3416.0,127.0,194.0,"Group Therapy, Case Management, Substance Abuse Treatment, Individual Therapy, Telehealth Services",True,2021,Urban,10,26.9,5,False
+FAC202100383,WI,Outpatient Clinic,2012.0,95.0,182.0,"Group Therapy, Case Management, Child and Adolescent Services, Individual Therapy, Substance Abuse Treatment",True,2021,Urban,10,21.2,5,False
+FAC202100384,RI,Psychiatric Hospital,4111.0,104.0,197.0,"Crisis Intervention, Individual Therapy, Child and Adolescent Services, Group Therapy, Medication Management, Telehealth Services, Substance Abuse Treatment",False,2021,Urban,5,39.5,7,False
+FAC202100385,CT,School Based Program,2425.0,69.0,230.0,"Telehealth Services, Group Therapy, Medication Management",False,2021,Suburban,8,35.1,3,False
+FAC202100386,AR,Veterans Affairs Medical Center,2425.0,21.0,153.0,"Case Management, Group Therapy, Individual Therapy, Crisis Intervention, Telehealth Services, Child and Adolescent Services",True,2021,Rural,10,115.5,6,True
+FAC202100387,MA,Residential Treatment Center,3989.0,73.0,154.0,"Case Management, Individual Therapy, Medication Management, Substance Abuse Treatment, Group Therapy, Crisis Intervention",False,2021,Urban,11,54.6,6,True
+FAC202100388,NY,Veterans Affairs Medical Center,4126.0,73.0,54.0,"Medication Management, Individual Therapy, Substance Abuse Treatment, Child and Adolescent Services",True,2021,Urban,7,56.5,4,True
+FAC202100389,IN,School Based Program,312.0,195.0,86.0,"Telehealth Services, Child and Adolescent Services, Group Therapy, Individual Therapy, Case Management",False,2021,Rural,2,1.6,5,False
+FAC202100390,NE,Veterans Affairs Medical Center,359.0,54.0,154.0,"Case Management, Medication Management, Individual Therapy, Telehealth Services",True,2021,Suburban,11,6.6,4,False
+FAC202100391,IA,Psychiatric Hospital,3391.0,37.0,154.0,Crisis Intervention,False,2021,Rural,11,91.6,1,True
+FAC202100392,ME,Residential Treatment Center,2963.0,50.0,112.0,"Telehealth Services, Substance Abuse Treatment, Case Management, Medication Management",False,2021,Rural,8,59.3,4,True
+FAC202100393,CO,Private Practice,245.0,31.0,215.0,"Telehealth Services, Case Management, Individual Therapy, Medication Management",False,2021,Urban,3,7.9,4,False
+FAC202100394,AK,Private Practice,414.0,191.0,154.0,"Telehealth Services, Case Management, Individual Therapy, Group Therapy, Crisis Intervention, Medication Management, Child and Adolescent Services",True,2021,Suburban,3,2.2,7,False
+FAC202100395,SC,Psychiatric Hospital,1747.0,192.0,154.0,"Individual Therapy, Group Therapy, Case Management, Substance Abuse Treatment, Medication Management, Child and Adolescent Services, Telehealth Services",True,2021,Urban,5,9.1,7,False
+FAC202100396,MS,School Based Program,302.0,128.0,209.0,"Telehealth Services, Medication Management, Individual Therapy, Group Therapy, Substance Abuse Treatment, Crisis Intervention, Case Management",True,2021,Suburban,3,2.4,7,False
+FAC202100397,MN,Veterans Affairs Medical Center,2425.0,50.0,237.0,"Group Therapy, Medication Management",False,2021,Urban,7,48.5,2,False
+FAC202100398,NY,State Mental Hospital,287.0,159.0,35.0,"Medication Management, Case Management",False,2021,Rural,8,1.8,2,False
+FAC202100399,DE,Psychiatric Hospital,2082.0,65.0,154.0,"Substance Abuse Treatment, Individual Therapy, Crisis Intervention",True,2021,Urban,8,32.0,3,False
+FAC202100400,DE,Residential Treatment Center,567.0,95.0,244.0,"Telehealth Services, Case Management, Substance Abuse Treatment",True,2021,Suburban,12,6.0,3,False
+FAC202100401,MO,Psychiatric Hospital,4499.0,27.0,131.0,"Group Therapy, Telehealth Services, Individual Therapy, Child and Adolescent Services, Medication Management",True,2021,Rural,4,166.6,5,True
+FAC202100402,MD,School Based Program,3852.0,85.0,172.0,"Telehealth Services, Individual Therapy, Group Therapy, Substance Abuse Treatment, Medication Management, Crisis Intervention, Child and Adolescent Services",True,2021,Suburban,10,45.3,7,False
+FAC202100403,UT,Psychiatric Hospital,1915.0,184.0,187.0,"Telehealth Services, Child and Adolescent Services, Substance Abuse Treatment, Medication Management, Crisis Intervention, Individual Therapy",False,2021,Suburban,10,10.4,6,False
+FAC202100404,WI,State Mental Hospital,2425.0,67.0,245.0,"Telehealth Services, Child and Adolescent Services, Medication Management, Substance Abuse Treatment, Case Management, Group Therapy, Individual Therapy",False,2021,Suburban,4,36.2,7,False
+FAC202100405,MD,Veterans Affairs Medical Center,2425.0,96.0,206.0,"Child and Adolescent Services, Crisis Intervention, Case Management, Individual Therapy, Medication Management",True,2021,Suburban,4,25.3,5,False
+FAC202100406,TX,Veterans Affairs Medical Center,4631.0,63.0,129.0,"Individual Therapy, Group Therapy, Child and Adolescent Services, Case Management, Substance Abuse Treatment",False,2021,Rural,7,73.5,5,True
+FAC202100407,AK,Veterans Affairs Medical Center,4546.0,95.0,163.0,"Telehealth Services, Individual Therapy, Substance Abuse Treatment, Case Management, Group Therapy, Child and Adolescent Services",True,2021,Rural,7,47.9,6,False
+FAC202100408,GA,Residential Treatment Center,365.0,83.0,10.0,"Case Management, Group Therapy, Telehealth Services, Individual Therapy, Child and Adolescent Services",False,2021,Suburban,12,4.4,5,False
+FAC202100409,HI,Veterans Affairs Medical Center,520.0,24.0,2.0,"Telehealth Services, Medication Management, Substance Abuse Treatment, Group Therapy",True,2021,Suburban,8,21.7,4,False
+FAC202100410,ID,Residential Treatment Center,1291.0,45.0,197.0,"Group Therapy, Crisis Intervention, Substance Abuse Treatment",True,2021,Rural,5,28.7,3,False
+FAC202100411,KS,Residential Treatment Center,2699.0,194.0,229.0,"Group Therapy, Telehealth Services, Crisis Intervention",True,2021,Rural,9,13.9,3,False
+FAC202100412,NC,Psychiatric Hospital,2100.0,184.0,287.0,"Substance Abuse Treatment, Child and Adolescent Services, Medication Management",False,2021,Rural,4,11.4,3,False
+FAC202100413,MS,Private Practice,1984.0,186.0,43.0,"Telehealth Services, Group Therapy, Case Management, Crisis Intervention, Child and Adolescent Services",True,2021,Suburban,11,10.7,5,False
+FAC202100414,SC,State Mental Hospital,1548.0,175.0,145.0,"Group Therapy, Crisis Intervention, Child and Adolescent Services, Medication Management, Substance Abuse Treatment, Telehealth Services, Individual Therapy",False,2021,Suburban,3,8.8,7,False
+FAC202100415,OR,State Mental Hospital,2616.0,81.0,118.0,"Medication Management, Individual Therapy, Substance Abuse Treatment, Crisis Intervention",True,2021,Urban,5,32.3,4,False
+FAC202100416,NC,Psychiatric Hospital,2425.0,180.0,86.0,"Crisis Intervention, Group Therapy, Telehealth Services, Case Management, Individual Therapy, Substance Abuse Treatment",True,2021,Urban,12,13.5,6,False
+FAC202100417,KY,Private Practice,1798.0,197.0,123.0,"Substance Abuse Treatment, Group Therapy, Crisis Intervention",False,2021,Suburban,1,9.1,3,False
+FAC202100418,MD,Outpatient Clinic,4745.0,6.0,204.0,"Child and Adolescent Services, Case Management, Individual Therapy, Group Therapy, Medication Management, Substance Abuse Treatment",True,2021,Suburban,4,790.8,6,True
+FAC202100419,MA,Residential Treatment Center,327.0,95.0,235.0,"Individual Therapy, Crisis Intervention, Telehealth Services, Group Therapy, Medication Management, Case Management",False,2021,Rural,6,3.4,6,False
+FAC202100420,ID,Private Practice,4376.0,188.0,154.0,"Medication Management, Individual Therapy, Substance Abuse Treatment, Case Management, Telehealth Services, Group Therapy, Child and Adolescent Services",True,2021,Rural,7,23.3,7,False
+FAC202100421,WV,Outpatient Clinic,2047.0,109.0,36.0,"Individual Therapy, Medication Management, Telehealth Services, Case Management, Group Therapy, Substance Abuse Treatment",False,2021,Suburban,8,18.8,6,False
+FAC202100422,TX,Veterans Affairs Medical Center,2421.0,70.0,132.0,"Crisis Intervention, Individual Therapy, Child and Adolescent Services, Case Management, Group Therapy, Telehealth Services, Medication Management",True,2021,Urban,11,34.6,7,False
+FAC202100423,OR,Community Mental Health Center,4637.0,194.0,130.0,"Medication Management, Case Management, Individual Therapy, Telehealth Services",False,2021,Suburban,1,23.9,4,False
+FAC202100424,NJ,Residential Treatment Center,1422.0,77.0,188.0,"Child and Adolescent Services, Telehealth Services, Case Management, Crisis Intervention, Individual Therapy",False,2021,Suburban,7,18.5,5,False
+FAC202100425,HI,Private Practice,2425.0,95.0,117.0,"Telehealth Services, Individual Therapy, Medication Management",False,2021,Rural,3,25.5,3,False
+FAC202100426,TN,Outpatient Clinic,4115.0,133.0,154.0,"Medication Management, Group Therapy",False,2021,Rural,12,30.9,2,False
+FAC202100427,NC,Private Practice,427.0,130.0,112.0,"Crisis Intervention, Case Management, Substance Abuse Treatment, Medication Management",True,2021,Suburban,8,3.3,4,False
+FAC202100428,MT,Outpatient Clinic,2649.0,149.0,178.0,"Medication Management, Child and Adolescent Services, Substance Abuse Treatment",False,2021,Suburban,6,17.8,3,False
+FAC202100429,NM,Outpatient Clinic,2425.0,121.0,147.0,"Substance Abuse Treatment, Telehealth Services, Crisis Intervention, Group Therapy, Case Management, Child and Adolescent Services",True,2021,Suburban,7,20.0,6,False
+FAC202100430,CO,Outpatient Clinic,2624.0,50.0,154.0,"Substance Abuse Treatment, Individual Therapy, Child and Adolescent Services, Medication Management, Group Therapy, Case Management, Crisis Intervention",False,2021,Rural,12,52.5,7,True
+FAC202100431,NH,Residential Treatment Center,2201.0,35.0,163.0,"Individual Therapy, Case Management, Telehealth Services, Group Therapy, Substance Abuse Treatment, Crisis Intervention, Medication Management",True,2021,Urban,8,62.9,7,True
+FAC202100432,HI,Community Mental Health Center,2425.0,95.0,221.0,"Group Therapy, Individual Therapy, Case Management, Medication Management, Crisis Intervention, Child and Adolescent Services",False,2021,Urban,10,25.5,6,False
+FAC202100433,ID,Outpatient Clinic,4105.0,141.0,247.0,"Case Management, Child and Adolescent Services, Telehealth Services, Medication Management",False,2021,Rural,10,29.1,4,False
+FAC202100434,TN,State Mental Hospital,4914.0,169.0,16.0,"Case Management, Substance Abuse Treatment, Individual Therapy, Group Therapy, Child and Adolescent Services",False,2021,Urban,2,29.1,5,False
+FAC202100435,MS,Outpatient Clinic,2425.0,50.0,154.0,"Group Therapy, Individual Therapy, Telehealth Services, Child and Adolescent Services, Substance Abuse Treatment, Case Management",True,2021,Rural,11,48.5,6,False
+FAC202100436,TN,Outpatient Clinic,2239.0,42.0,154.0,Crisis Intervention,False,2021,Urban,11,53.3,1,True
+FAC202100437,MN,Residential Treatment Center,387.0,137.0,37.0,"Medication Management, Case Management, Individual Therapy, Group Therapy, Substance Abuse Treatment, Crisis Intervention, Telehealth Services",True,2021,Suburban,8,2.8,7,False
+FAC202100438,NJ,Veterans Affairs Medical Center,1230.0,45.0,276.0,"Telehealth Services, Child and Adolescent Services, Crisis Intervention",False,2021,Suburban,9,27.3,3,False
+FAC202100439,CT,School Based Program,1754.0,155.0,194.0,"Substance Abuse Treatment, Medication Management, Crisis Intervention, Child and Adolescent Services, Individual Therapy, Telehealth Services, Group Therapy",False,2021,Urban,12,11.3,7,False
+FAC202100440,AR,Psychiatric Hospital,4944.0,45.0,154.0,Child and Adolescent Services,True,2021,Urban,4,109.9,1,True
+FAC202100441,VT,Residential Treatment Center,723.0,138.0,154.0,"Child and Adolescent Services, Individual Therapy, Substance Abuse Treatment, Case Management",False,2021,Urban,11,5.2,4,False
+FAC202100442,NH,Residential Treatment Center,1628.0,191.0,154.0,"Crisis Intervention, Substance Abuse Treatment, Telehealth Services, Group Therapy, Medication Management, Individual Therapy",True,2021,Urban,3,8.5,6,False
+FAC202100443,DC,Community Mental Health Center,2915.0,163.0,81.0,"Medication Management, Child and Adolescent Services",True,2021,Suburban,4,17.9,2,False
+FAC202100444,WV,Veterans Affairs Medical Center,2425.0,86.0,265.0,Crisis Intervention,False,2021,Suburban,8,28.2,1,False
+FAC202100445,DC,State Mental Hospital,2802.0,52.0,154.0,"Medication Management, Telehealth Services, Child and Adolescent Services, Individual Therapy, Case Management, Group Therapy, Substance Abuse Treatment",False,2021,Urban,9,53.9,7,True
+FAC202100446,SC,Veterans Affairs Medical Center,4250.0,22.0,154.0,"Telehealth Services, Crisis Intervention, Group Therapy",False,2021,Suburban,9,193.2,3,True
+FAC202100447,CO,Psychiatric Hospital,4675.0,95.0,201.0,"Child and Adolescent Services, Crisis Intervention, Group Therapy, Individual Therapy",False,2021,Suburban,6,49.2,4,False
+FAC202100448,FL,Psychiatric Hospital,2784.0,16.0,92.0,"Child and Adolescent Services, Substance Abuse Treatment, Group Therapy, Telehealth Services, Individual Therapy, Medication Management, Crisis Intervention",False,2021,Rural,9,174.0,7,True
+FAC202100449,KS,Outpatient Clinic,3775.0,100.0,257.0,"Child and Adolescent Services, Telehealth Services, Group Therapy",True,2021,Suburban,4,37.8,3,False
+FAC202100450,MD,Private Practice,1889.0,14.0,297.0,"Substance Abuse Treatment, Medication Management, Crisis Intervention, Individual Therapy, Telehealth Services, Child and Adolescent Services, Group Therapy",False,2021,Urban,3,134.9,7,True
+FAC202100451,MD,State Mental Hospital,4576.0,53.0,154.0,Individual Therapy,False,2021,Suburban,8,86.3,1,True
+FAC202100452,AZ,Residential Treatment Center,2134.0,43.0,241.0,"Crisis Intervention, Child and Adolescent Services, Group Therapy, Telehealth Services, Case Management, Substance Abuse Treatment, Individual Therapy",True,2021,Suburban,3,49.6,7,False
+FAC202100453,AL,Psychiatric Hospital,1972.0,160.0,217.0,"Telehealth Services, Child and Adolescent Services, Individual Therapy, Substance Abuse Treatment, Case Management, Group Therapy, Crisis Intervention",False,2021,Rural,4,12.3,7,False
+FAC202100454,WI,Private Practice,275.0,196.0,126.0,"Child and Adolescent Services, Substance Abuse Treatment, Case Management, Individual Therapy",True,2021,Rural,2,1.4,4,False
+FAC202100455,WY,Psychiatric Hospital,2425.0,12.0,135.0,"Crisis Intervention, Child and Adolescent Services, Medication Management, Case Management, Individual Therapy, Substance Abuse Treatment",True,2021,Urban,10,202.1,6,True
+FAC202100456,PA,Psychiatric Hospital,2425.0,50.0,73.0,"Crisis Intervention, Case Management, Group Therapy, Substance Abuse Treatment, Medication Management, Child and Adolescent Services, Telehealth Services",True,2021,Rural,6,48.5,7,False
+FAC202100457,CT,Community Mental Health Center,1164.0,190.0,6.0,Individual Therapy,True,2021,Suburban,4,6.1,1,False
+FAC202100458,HI,Outpatient Clinic,2379.0,190.0,65.0,Case Management,True,2021,Rural,3,12.5,1,False
+FAC202100459,NJ,Private Practice,4761.0,106.0,16.0,"Telehealth Services, Crisis Intervention",True,2021,Suburban,9,44.9,2,False
+FAC202100460,AL,State Mental Hospital,3027.0,154.0,257.0,Individual Therapy,True,2021,Rural,1,19.7,1,False
+FAC202100461,DE,Residential Treatment Center,1063.0,144.0,268.0,"Telehealth Services, Case Management, Crisis Intervention, Group Therapy, Individual Therapy, Medication Management, Substance Abuse Treatment",True,2021,Rural,11,7.4,7,False
+FAC202100462,SD,School Based Program,4193.0,95.0,100.0,"Substance Abuse Treatment, Crisis Intervention, Group Therapy, Telehealth Services, Individual Therapy, Child and Adolescent Services",True,2021,Urban,5,44.1,6,False
+FAC202100463,DC,Residential Treatment Center,2425.0,95.0,62.0,"Individual Therapy, Substance Abuse Treatment, Group Therapy",False,2021,Urban,4,25.5,3,False
+FAC202100464,FL,Community Mental Health Center,2425.0,42.0,282.0,"Group Therapy, Individual Therapy, Crisis Intervention, Substance Abuse Treatment",True,2021,Urban,12,57.7,4,True
+FAC202100465,MD,Veterans Affairs Medical Center,1241.0,185.0,105.0,Telehealth Services,True,2021,Rural,7,6.7,1,False
+FAC202100466,ID,Outpatient Clinic,3579.0,190.0,72.0,"Child and Adolescent Services, Telehealth Services, Group Therapy, Substance Abuse Treatment, Case Management, Individual Therapy",True,2021,Urban,6,18.8,6,False
+FAC202100467,WV,Private Practice,4527.0,142.0,73.0,"Child and Adolescent Services, Substance Abuse Treatment, Telehealth Services, Individual Therapy, Group Therapy, Case Management",True,2021,Urban,3,31.9,6,False
+FAC202100468,NC,Community Mental Health Center,2425.0,95.0,244.0,"Telehealth Services, Child and Adolescent Services, Individual Therapy, Crisis Intervention, Group Therapy, Case Management, Medication Management",True,2021,Urban,12,25.5,7,False
+FAC202100469,OK,Community Mental Health Center,2646.0,122.0,171.0,"Group Therapy, Crisis Intervention, Individual Therapy, Medication Management",False,2021,Suburban,11,21.7,4,False
+FAC202100470,MT,Outpatient Clinic,87.0,188.0,101.0,Case Management,True,2021,Suburban,4,0.5,1,False
+FAC202100471,ND,Outpatient Clinic,2425.0,151.0,223.0,"Medication Management, Telehealth Services, Child and Adolescent Services, Crisis Intervention, Group Therapy, Case Management, Individual Therapy",False,2021,Urban,4,16.1,7,False
+FAC202100472,AK,Outpatient Clinic,1350.0,190.0,195.0,"Substance Abuse Treatment, Child and Adolescent Services, Group Therapy, Crisis Intervention, Telehealth Services, Individual Therapy, Case Management",True,2021,Rural,1,7.1,7,False
+FAC202100473,WI,Veterans Affairs Medical Center,3734.0,13.0,154.0,"Individual Therapy, Crisis Intervention",True,2021,Rural,9,287.2,2,True
+FAC202100474,IA,Residential Treatment Center,2425.0,67.0,218.0,"Substance Abuse Treatment, Child and Adolescent Services, Case Management",True,2021,Suburban,12,36.2,3,False
+FAC202100475,SD,State Mental Hospital,2830.0,30.0,165.0,"Medication Management, Crisis Intervention, Substance Abuse Treatment, Case Management",True,2021,Suburban,7,94.3,4,True
+FAC202100476,MN,State Mental Hospital,1989.0,157.0,154.0,"Case Management, Telehealth Services, Individual Therapy, Child and Adolescent Services, Crisis Intervention, Medication Management, Group Therapy",False,2021,Urban,9,12.7,7,False
+FAC202100477,CA,Community Mental Health Center,1513.0,23.0,3.0,"Case Management, Medication Management, Group Therapy, Individual Therapy, Substance Abuse Treatment",False,2021,Rural,11,65.8,5,True
+FAC202100478,VT,Veterans Affairs Medical Center,4469.0,158.0,170.0,"Medication Management, Substance Abuse Treatment, Individual Therapy, Group Therapy, Telehealth Services, Crisis Intervention, Child and Adolescent Services",True,2021,Suburban,4,28.3,7,False
+FAC202100479,VT,School Based Program,4135.0,97.0,146.0,Group Therapy,True,2021,Suburban,12,42.6,1,False
+FAC202100480,AL,State Mental Hospital,3561.0,141.0,0.0,"Substance Abuse Treatment, Individual Therapy, Telehealth Services",False,2021,Rural,3,25.3,3,False
+FAC202100481,VT,Private Practice,607.0,110.0,67.0,"Case Management, Child and Adolescent Services",False,2021,Suburban,7,5.5,2,False
+FAC202100482,CA,School Based Program,4565.0,131.0,71.0,"Child and Adolescent Services, Individual Therapy, Telehealth Services, Crisis Intervention, Substance Abuse Treatment, Group Therapy",False,2021,Suburban,8,34.8,6,False
+FAC202100483,VT,School Based Program,265.0,107.0,40.0,"Medication Management, Crisis Intervention, Group Therapy",False,2021,Rural,2,2.5,3,False
+FAC202100484,IL,Community Mental Health Center,2907.0,95.0,154.0,"Individual Therapy, Group Therapy",True,2021,Urban,3,30.6,2,False
+FAC202100485,IN,Veterans Affairs Medical Center,2425.0,47.0,65.0,"Medication Management, Individual Therapy, Case Management",True,2021,Urban,5,51.6,3,True
+FAC202100486,CO,Private Practice,2425.0,148.0,263.0,"Child and Adolescent Services, Telehealth Services, Substance Abuse Treatment",False,2021,Suburban,3,16.4,3,False
+FAC202100487,PA,School Based Program,2425.0,198.0,75.0,"Crisis Intervention, Case Management, Individual Therapy, Telehealth Services",False,2021,Rural,6,12.2,4,False
+FAC202100488,IA,School Based Program,2425.0,65.0,154.0,"Group Therapy, Telehealth Services, Child and Adolescent Services",True,2021,Urban,12,37.3,3,False
+FAC202100489,ND,Community Mental Health Center,2215.0,179.0,154.0,"Telehealth Services, Individual Therapy, Crisis Intervention",True,2021,Rural,4,12.4,3,False
+FAC202100490,ME,Community Mental Health Center,4971.0,127.0,183.0,"Case Management, Child and Adolescent Services, Medication Management, Crisis Intervention, Individual Therapy, Substance Abuse Treatment",True,2021,Suburban,3,39.1,6,False
+FAC202100491,GA,Community Mental Health Center,1185.0,132.0,180.0,"Medication Management, Telehealth Services, Case Management, Crisis Intervention",True,2021,Rural,8,9.0,4,False
+FAC202100492,ND,Residential Treatment Center,4261.0,95.0,72.0,"Telehealth Services, Group Therapy, Crisis Intervention, Individual Therapy",False,2021,Rural,5,44.9,4,False
+FAC202100493,CA,Residential Treatment Center,2712.0,135.0,150.0,"Crisis Intervention, Medication Management",False,2021,Suburban,11,20.1,2,False
+FAC202100494,NV,Veterans Affairs Medical Center,1110.0,95.0,100.0,"Crisis Intervention, Case Management, Individual Therapy, Medication Management",False,2021,Rural,3,11.7,4,False
+FAC202100495,MI,Psychiatric Hospital,3462.0,171.0,154.0,"Case Management, Group Therapy",True,2021,Rural,9,20.2,2,False
+FAC202100496,MN,School Based Program,2440.0,134.0,58.0,"Substance Abuse Treatment, Crisis Intervention, Group Therapy, Medication Management, Case Management",True,2021,Rural,7,18.2,5,False
+FAC202100497,MS,Private Practice,3658.0,15.0,54.0,"Group Therapy, Telehealth Services",True,2021,Suburban,11,243.9,2,True
+FAC202100498,ID,Outpatient Clinic,2425.0,67.0,23.0,"Substance Abuse Treatment, Telehealth Services, Crisis Intervention, Medication Management, Individual Therapy",True,2021,Urban,2,36.2,5,False
+FAC202100499,VT,Residential Treatment Center,1492.0,95.0,17.0,"Case Management, Substance Abuse Treatment, Telehealth Services",False,2021,Suburban,1,15.7,3,False
+FAC202100500,TX,Veterans Affairs Medical Center,4698.0,169.0,262.0,"Medication Management, Case Management, Child and Adolescent Services, Crisis Intervention, Substance Abuse Treatment, Telehealth Services",True,2021,Suburban,2,27.8,6,False
+FAC202100501,WI,Outpatient Clinic,807.0,75.0,203.0,Group Therapy,False,2021,Rural,9,10.8,1,False
+FAC202100502,FL,School Based Program,4267.0,30.0,16.0,"Case Management, Individual Therapy, Medication Management, Child and Adolescent Services, Crisis Intervention",True,2021,Urban,6,142.2,5,True
+FAC202100503,AZ,School Based Program,2816.0,113.0,154.0,"Child and Adolescent Services, Medication Management, Substance Abuse Treatment, Individual Therapy, Crisis Intervention, Case Management, Telehealth Services",False,2021,Rural,6,24.9,7,False
+FAC202100504,NV,School Based Program,523.0,6.0,221.0,Medication Management,True,2021,Suburban,6,87.2,1,True
+FAC202100505,OK,Residential Treatment Center,2585.0,16.0,203.0,"Telehealth Services, Crisis Intervention, Individual Therapy, Child and Adolescent Services, Substance Abuse Treatment, Case Management",False,2021,Rural,12,161.6,6,True
+FAC202100506,AL,School Based Program,859.0,24.0,1.0,"Telehealth Services, Child and Adolescent Services, Group Therapy, Individual Therapy, Medication Management, Case Management",False,2021,Urban,4,35.8,6,False
+FAC202100507,IL,School Based Program,2429.0,44.0,154.0,"Individual Therapy, Child and Adolescent Services, Crisis Intervention, Case Management, Telehealth Services, Substance Abuse Treatment",True,2021,Suburban,10,55.2,6,True
+FAC202100508,AR,Private Practice,197.0,193.0,214.0,"Medication Management, Crisis Intervention, Telehealth Services, Individual Therapy, Substance Abuse Treatment, Case Management",True,2021,Suburban,2,1.0,6,False
+FAC202100509,SC,Community Mental Health Center,1569.0,13.0,261.0,"Telehealth Services, Child and Adolescent Services, Crisis Intervention, Substance Abuse Treatment, Individual Therapy, Case Management, Group Therapy",True,2021,Rural,12,120.7,7,True
+FAC202100510,DC,Veterans Affairs Medical Center,4179.0,29.0,249.0,"Case Management, Individual Therapy",True,2021,Urban,1,144.1,2,True
+FAC202100511,PA,Residential Treatment Center,4215.0,136.0,99.0,"Medication Management, Substance Abuse Treatment, Child and Adolescent Services, Crisis Intervention, Case Management",False,2021,Suburban,10,31.0,5,False
+FAC202100512,WA,Community Mental Health Center,2013.0,41.0,141.0,"Telehealth Services, Crisis Intervention, Medication Management",False,2021,Suburban,5,49.1,3,False
+FAC202100513,TX,Veterans Affairs Medical Center,4458.0,42.0,164.0,"Individual Therapy, Telehealth Services, Case Management, Medication Management, Child and Adolescent Services, Substance Abuse Treatment",True,2021,Urban,3,106.1,6,True
+FAC202100514,DC,Psychiatric Hospital,3220.0,29.0,250.0,"Child and Adolescent Services, Medication Management, Group Therapy",False,2021,Urban,9,111.0,3,True
+FAC202100515,SC,Outpatient Clinic,3676.0,42.0,248.0,Medication Management,True,2021,Suburban,11,87.5,1,True
+FAC202100516,NC,Private Practice,2198.0,160.0,238.0,"Telehealth Services, Case Management, Group Therapy, Child and Adolescent Services, Medication Management, Substance Abuse Treatment, Crisis Intervention",False,2021,Suburban,3,13.7,7,False
+FAC202100517,NH,Veterans Affairs Medical Center,1895.0,8.0,299.0,"Case Management, Individual Therapy, Telehealth Services, Group Therapy, Crisis Intervention, Child and Adolescent Services",False,2021,Rural,1,236.9,6,True
+FAC202100518,IL,State Mental Hospital,1178.0,95.0,165.0,"Substance Abuse Treatment, Child and Adolescent Services, Group Therapy",True,2021,Rural,11,12.4,3,False
+FAC202100519,NY,State Mental Hospital,1213.0,127.0,262.0,"Crisis Intervention, Medication Management, Group Therapy, Child and Adolescent Services, Case Management",False,2021,Suburban,3,9.6,5,False
+FAC202100520,WA,Veterans Affairs Medical Center,2050.0,13.0,1.0,"Crisis Intervention, Substance Abuse Treatment",True,2021,Suburban,6,157.7,2,True
+FAC202100521,DE,Community Mental Health Center,2425.0,124.0,93.0,"Crisis Intervention, Telehealth Services",True,2021,Rural,7,19.6,2,False
+FAC202100522,ME,Veterans Affairs Medical Center,1077.0,66.0,19.0,"Telehealth Services, Case Management, Individual Therapy, Medication Management, Substance Abuse Treatment, Group Therapy, Crisis Intervention",True,2021,Rural,9,16.3,7,False
+FAC202100523,SD,Outpatient Clinic,2703.0,49.0,137.0,"Substance Abuse Treatment, Medication Management, Crisis Intervention, Case Management",False,2021,Rural,12,55.2,4,True
+FAC202100524,CO,Psychiatric Hospital,1590.0,70.0,217.0,Substance Abuse Treatment,True,2021,Urban,1,22.7,1,False
+FAC202100525,NC,Residential Treatment Center,4499.0,177.0,253.0,"Case Management, Telehealth Services, Crisis Intervention, Substance Abuse Treatment, Child and Adolescent Services, Medication Management, Group Therapy",True,2021,Rural,7,25.4,7,False
+FAC202100526,DC,Veterans Affairs Medical Center,196.0,70.0,16.0,"Telehealth Services, Individual Therapy, Group Therapy, Crisis Intervention",True,2021,Rural,7,2.8,4,False
+FAC202100527,CO,Outpatient Clinic,1442.0,145.0,102.0,"Medication Management, Telehealth Services, Case Management, Child and Adolescent Services, Crisis Intervention",True,2021,Suburban,5,9.9,5,False
+FAC202100528,MA,Psychiatric Hospital,2425.0,104.0,128.0,"Group Therapy, Individual Therapy, Case Management, Substance Abuse Treatment, Crisis Intervention, Telehealth Services",False,2021,Suburban,11,23.3,6,False
+FAC202100529,TX,School Based Program,475.0,144.0,154.0,"Individual Therapy, Case Management, Child and Adolescent Services, Telehealth Services",True,2021,Urban,6,3.3,4,False
+FAC202100530,HI,Private Practice,3486.0,114.0,154.0,"Group Therapy, Individual Therapy",True,2021,Rural,2,30.6,2,False
+FAC202100531,IL,Residential Treatment Center,4607.0,37.0,154.0,"Child and Adolescent Services, Telehealth Services, Individual Therapy, Medication Management, Case Management, Crisis Intervention, Group Therapy",False,2021,Suburban,10,124.5,7,True
+FAC202100532,OR,Community Mental Health Center,1612.0,87.0,103.0,"Case Management, Substance Abuse Treatment, Telehealth Services, Individual Therapy, Child and Adolescent Services",False,2021,Rural,12,18.5,5,False
+FAC202100533,MI,Psychiatric Hospital,2425.0,144.0,154.0,"Individual Therapy, Child and Adolescent Services, Medication Management, Crisis Intervention, Group Therapy, Case Management, Telehealth Services",False,2021,Rural,6,16.8,7,False
+FAC202100534,NM,School Based Program,4386.0,191.0,176.0,"Telehealth Services, Medication Management, Group Therapy",False,2021,Rural,1,23.0,3,False
+FAC202100535,NM,State Mental Hospital,370.0,8.0,86.0,"Medication Management, Group Therapy, Substance Abuse Treatment, Telehealth Services, Individual Therapy",False,2021,Rural,11,46.2,5,False
+FAC202100536,VT,School Based Program,3074.0,22.0,154.0,"Case Management, Medication Management, Individual Therapy, Telehealth Services, Child and Adolescent Services",True,2021,Suburban,1,139.7,5,True
+FAC202100537,AZ,School Based Program,4529.0,41.0,128.0,Case Management,False,2021,Suburban,6,110.5,1,True
+FAC202100538,FL,School Based Program,2906.0,62.0,164.0,Substance Abuse Treatment,True,2021,Suburban,11,46.9,1,False
+FAC202100539,IL,Psychiatric Hospital,770.0,145.0,120.0,Individual Therapy,True,2021,Suburban,1,5.3,1,False
+FAC202100540,WI,Veterans Affairs Medical Center,2425.0,69.0,217.0,"Individual Therapy, Substance Abuse Treatment, Child and Adolescent Services, Crisis Intervention, Telehealth Services",False,2021,Urban,6,35.1,5,False
+FAC202100541,MI,Outpatient Clinic,1965.0,95.0,228.0,"Crisis Intervention, Substance Abuse Treatment, Telehealth Services",True,2021,Suburban,9,20.7,3,False
+FAC202100542,PA,State Mental Hospital,2236.0,146.0,268.0,"Crisis Intervention, Telehealth Services",True,2021,Suburban,2,15.3,2,False
+FAC202100543,CO,Residential Treatment Center,770.0,94.0,4.0,"Group Therapy, Medication Management, Individual Therapy, Substance Abuse Treatment, Case Management, Telehealth Services",True,2021,Suburban,2,8.2,6,False
+FAC202100544,ID,Residential Treatment Center,3923.0,121.0,154.0,"Individual Therapy, Telehealth Services, Crisis Intervention, Case Management, Group Therapy, Child and Adolescent Services",False,2021,Rural,12,32.4,6,False
+FAC202100545,AZ,Private Practice,4405.0,38.0,276.0,"Medication Management, Individual Therapy, Group Therapy, Crisis Intervention, Child and Adolescent Services, Substance Abuse Treatment, Case Management",False,2021,Rural,7,115.9,7,True
+FAC202100546,IA,Outpatient Clinic,176.0,32.0,147.0,"Case Management, Telehealth Services, Substance Abuse Treatment",True,2021,Urban,4,5.5,3,False
+FAC202100547,AR,State Mental Hospital,2425.0,159.0,154.0,"Individual Therapy, Substance Abuse Treatment, Crisis Intervention",True,2021,Urban,11,15.3,3,False
+FAC202100548,WY,Outpatient Clinic,2425.0,12.0,77.0,"Substance Abuse Treatment, Case Management, Medication Management, Group Therapy",True,2021,Suburban,6,202.1,4,True
+FAC202100549,WI,Veterans Affairs Medical Center,1867.0,148.0,165.0,"Child and Adolescent Services, Substance Abuse Treatment",False,2021,Rural,5,12.6,2,False
+FAC202100550,DE,State Mental Hospital,1354.0,12.0,147.0,"Substance Abuse Treatment, Individual Therapy",False,2021,Urban,2,112.8,2,True
+FAC202100551,MI,School Based Program,4177.0,196.0,200.0,"Group Therapy, Medication Management, Case Management, Crisis Intervention",True,2021,Urban,4,21.3,4,False
+FAC202100552,DE,Psychiatric Hospital,728.0,121.0,154.0,"Child and Adolescent Services, Case Management, Crisis Intervention, Telehealth Services, Group Therapy, Medication Management",False,2021,Suburban,11,6.0,6,False
+FAC202100553,AK,School Based Program,3217.0,136.0,154.0,"Telehealth Services, Crisis Intervention, Medication Management, Group Therapy, Individual Therapy, Case Management",False,2021,Rural,6,23.7,6,False
+FAC202100554,OR,Private Practice,911.0,95.0,122.0,"Case Management, Substance Abuse Treatment",False,2021,Rural,12,9.6,2,False
+FAC202100555,LA,State Mental Hospital,2425.0,123.0,154.0,"Individual Therapy, Case Management, Medication Management, Substance Abuse Treatment",True,2021,Suburban,4,19.7,4,False
+FAC202100556,VA,Residential Treatment Center,3815.0,191.0,128.0,"Substance Abuse Treatment, Group Therapy, Medication Management",True,2021,Suburban,6,20.0,3,False
+FAC202100557,MT,Community Mental Health Center,1957.0,132.0,295.0,"Individual Therapy, Telehealth Services, Substance Abuse Treatment, Group Therapy",True,2021,Urban,2,14.8,4,False
+FAC202100558,OK,Veterans Affairs Medical Center,2425.0,84.0,84.0,"Telehealth Services, Group Therapy",False,2021,Rural,11,28.9,2,False
+FAC202100559,IN,State Mental Hospital,4296.0,34.0,73.0,"Case Management, Individual Therapy, Group Therapy",True,2021,Urban,10,126.4,3,True
+FAC202100560,MD,Private Practice,2896.0,43.0,141.0,"Individual Therapy, Substance Abuse Treatment, Group Therapy, Child and Adolescent Services, Medication Management",False,2021,Urban,1,67.3,5,True
+FAC202100561,CA,Veterans Affairs Medical Center,1369.0,187.0,154.0,"Crisis Intervention, Individual Therapy, Child and Adolescent Services, Medication Management, Case Management",False,2021,Urban,3,7.3,5,False
+FAC202100562,MI,Community Mental Health Center,2093.0,167.0,61.0,"Individual Therapy, Medication Management, Group Therapy",False,2021,Suburban,10,12.5,3,False
+FAC202100563,NM,School Based Program,1189.0,69.0,8.0,Group Therapy,True,2021,Urban,3,17.2,1,False
+FAC202100564,DC,Community Mental Health Center,2628.0,14.0,167.0,"Medication Management, Case Management, Substance Abuse Treatment, Individual Therapy, Child and Adolescent Services",True,2021,Suburban,6,187.7,5,True
+FAC202100565,OH,Residential Treatment Center,1240.0,100.0,154.0,"Case Management, Child and Adolescent Services",False,2021,Suburban,1,12.4,2,False
+FAC202100566,MO,State Mental Hospital,2211.0,82.0,222.0,"Crisis Intervention, Case Management, Child and Adolescent Services",False,2021,Suburban,12,27.0,3,False
+FAC202100567,NJ,Psychiatric Hospital,3548.0,55.0,154.0,"Case Management, Individual Therapy, Substance Abuse Treatment, Group Therapy",True,2021,Urban,4,64.5,4,True
+FAC202100568,IN,Psychiatric Hospital,1249.0,143.0,23.0,Case Management,True,2021,Urban,8,8.7,1,False
+FAC202100569,TX,School Based Program,316.0,98.0,154.0,"Telehealth Services, Case Management, Group Therapy, Individual Therapy",True,2021,Suburban,4,3.2,4,False
+FAC202100570,DC,State Mental Hospital,432.0,196.0,154.0,"Child and Adolescent Services, Individual Therapy, Substance Abuse Treatment",False,2021,Urban,5,2.2,3,False
+FAC202100571,WV,Veterans Affairs Medical Center,2172.0,95.0,24.0,"Individual Therapy, Substance Abuse Treatment, Case Management",False,2021,Rural,4,22.9,3,False
+FAC202100572,ID,Private Practice,4420.0,180.0,121.0,"Individual Therapy, Medication Management",False,2021,Rural,9,24.6,2,False
+FAC202100573,WY,Veterans Affairs Medical Center,3231.0,102.0,125.0,"Individual Therapy, Case Management, Group Therapy",True,2021,Urban,11,31.7,3,False
+FAC202100574,NM,Psychiatric Hospital,2425.0,95.0,154.0,Child and Adolescent Services,True,2021,Suburban,9,25.5,1,False
+FAC202100575,OH,State Mental Hospital,2425.0,44.0,81.0,"Group Therapy, Telehealth Services",True,2021,Suburban,11,55.1,2,True
+FAC202100576,SD,State Mental Hospital,3513.0,39.0,102.0,Individual Therapy,True,2021,Rural,10,90.1,1,True
+FAC202100577,MT,Residential Treatment Center,66.0,11.0,154.0,"Substance Abuse Treatment, Crisis Intervention, Individual Therapy",False,2021,Rural,5,6.0,3,False
+FAC202100578,OR,Outpatient Clinic,2682.0,53.0,145.0,"Child and Adolescent Services, Telehealth Services, Group Therapy, Individual Therapy, Crisis Intervention, Case Management",True,2021,Urban,9,50.6,6,True
+FAC202100579,IA,Private Practice,1574.0,51.0,202.0,"Substance Abuse Treatment, Telehealth Services, Group Therapy, Crisis Intervention",False,2021,Rural,8,30.9,4,False
+FAC202100580,MS,School Based Program,1993.0,95.0,183.0,"Crisis Intervention, Child and Adolescent Services, Telehealth Services, Individual Therapy, Group Therapy, Case Management, Substance Abuse Treatment",True,2021,Suburban,9,21.0,7,False
+FAC202100581,MD,Outpatient Clinic,1959.0,17.0,195.0,Crisis Intervention,True,2021,Rural,6,115.2,1,True
+FAC202100582,MT,Outpatient Clinic,2425.0,55.0,96.0,"Medication Management, Child and Adolescent Services, Substance Abuse Treatment, Individual Therapy, Telehealth Services",False,2021,Urban,1,44.1,5,False
+FAC202100583,FL,Outpatient Clinic,688.0,94.0,154.0,"Crisis Intervention, Telehealth Services, Substance Abuse Treatment, Medication Management",False,2021,Rural,10,7.3,4,False
+FAC202100584,AL,Outpatient Clinic,1029.0,42.0,179.0,"Case Management, Substance Abuse Treatment, Individual Therapy, Group Therapy",True,2021,Suburban,3,24.5,4,False
+FAC202100585,IL,Private Practice,1763.0,95.0,63.0,"Medication Management, Case Management, Child and Adolescent Services, Group Therapy, Individual Therapy, Telehealth Services, Substance Abuse Treatment",False,2021,Urban,4,18.6,7,False
+FAC202100586,HI,Private Practice,386.0,38.0,251.0,"Crisis Intervention, Group Therapy, Case Management, Substance Abuse Treatment",True,2021,Urban,7,10.2,4,False
+FAC202100587,PA,Veterans Affairs Medical Center,1955.0,17.0,5.0,"Substance Abuse Treatment, Individual Therapy, Case Management, Crisis Intervention",False,2021,Urban,5,115.0,4,True
+FAC202100588,DE,Private Practice,1228.0,164.0,154.0,"Individual Therapy, Crisis Intervention, Medication Management, Group Therapy, Substance Abuse Treatment, Telehealth Services",True,2021,Suburban,4,7.5,6,False
+FAC202100589,NV,Veterans Affairs Medical Center,2718.0,86.0,135.0,"Child and Adolescent Services, Crisis Intervention",False,2021,Rural,9,31.6,2,False
+FAC202100590,CT,Private Practice,2425.0,163.0,103.0,"Individual Therapy, Substance Abuse Treatment, Crisis Intervention",False,2021,Urban,2,14.9,3,False
+FAC202100591,PA,Psychiatric Hospital,4897.0,7.0,90.0,"Case Management, Substance Abuse Treatment, Child and Adolescent Services",False,2021,Rural,6,699.6,3,True
+FAC202100592,ND,Private Practice,1437.0,71.0,154.0,"Telehealth Services, Crisis Intervention, Substance Abuse Treatment",True,2021,Suburban,3,20.2,3,False
+FAC202100593,DC,Community Mental Health Center,2425.0,61.0,154.0,"Substance Abuse Treatment, Individual Therapy",False,2021,Rural,12,39.8,2,False
+FAC202100594,KS,State Mental Hospital,3531.0,154.0,181.0,Medication Management,True,2021,Suburban,5,22.9,1,False
+FAC202100595,ND,Community Mental Health Center,3151.0,124.0,81.0,"Group Therapy, Substance Abuse Treatment",False,2021,Suburban,7,25.4,2,False
+FAC202100596,ME,Veterans Affairs Medical Center,4889.0,173.0,154.0,"Crisis Intervention, Individual Therapy, Child and Adolescent Services, Medication Management, Telehealth Services, Substance Abuse Treatment",False,2021,Suburban,8,28.3,6,False
+FAC202100597,SC,Residential Treatment Center,2425.0,141.0,260.0,"Group Therapy, Telehealth Services",False,2021,Rural,6,17.2,2,False
+FAC202100598,TN,Community Mental Health Center,1138.0,161.0,145.0,"Substance Abuse Treatment, Child and Adolescent Services, Medication Management, Telehealth Services, Group Therapy",False,2021,Rural,11,7.1,5,False
+FAC202100599,FL,Community Mental Health Center,2425.0,106.0,92.0,Crisis Intervention,True,2021,Urban,11,22.9,1,False
+FAC202100600,OK,School Based Program,2425.0,172.0,158.0,"Individual Therapy, Telehealth Services, Child and Adolescent Services, Crisis Intervention",True,2021,Suburban,6,14.1,4,False
+FAC202100601,OK,Private Practice,1216.0,104.0,154.0,"Case Management, Medication Management, Child and Adolescent Services, Individual Therapy",False,2021,Rural,2,11.7,4,False
+FAC202100602,FL,Private Practice,1587.0,194.0,154.0,"Group Therapy, Case Management, Individual Therapy, Medication Management",True,2021,Rural,6,8.2,4,False
+FAC202100603,OH,Psychiatric Hospital,814.0,148.0,77.0,"Case Management, Individual Therapy, Group Therapy, Telehealth Services, Child and Adolescent Services",False,2021,Urban,10,5.5,5,False
+FAC202100604,ND,Outpatient Clinic,921.0,15.0,196.0,"Individual Therapy, Crisis Intervention, Medication Management, Case Management, Substance Abuse Treatment, Group Therapy",False,2021,Rural,6,61.4,6,True
+FAC202100605,WY,Community Mental Health Center,4368.0,181.0,21.0,"Individual Therapy, Telehealth Services, Medication Management, Crisis Intervention",True,2021,Rural,11,24.1,4,False
+FAC202100606,KY,School Based Program,2425.0,163.0,209.0,"Group Therapy, Individual Therapy, Telehealth Services, Substance Abuse Treatment, Case Management",True,2021,Suburban,9,14.9,5,False
+FAC202100607,AL,School Based Program,2545.0,178.0,78.0,"Medication Management, Crisis Intervention",True,2021,Suburban,4,14.3,2,False
+FAC202100608,MO,Residential Treatment Center,2425.0,133.0,154.0,"Group Therapy, Crisis Intervention, Case Management",False,2021,Suburban,4,18.2,3,False
+FAC202100609,RI,State Mental Hospital,1459.0,130.0,269.0,"Case Management, Crisis Intervention, Individual Therapy, Substance Abuse Treatment, Group Therapy, Telehealth Services",True,2021,Rural,3,11.2,6,False
+FAC202100610,MS,Community Mental Health Center,2425.0,52.0,154.0,"Case Management, Individual Therapy, Telehealth Services",False,2021,Suburban,8,46.6,3,False
+FAC202100611,ID,Outpatient Clinic,1285.0,64.0,154.0,"Group Therapy, Case Management, Medication Management, Substance Abuse Treatment, Telehealth Services",True,2021,Urban,2,20.1,5,False
+FAC202100612,MN,Private Practice,503.0,71.0,287.0,"Substance Abuse Treatment, Medication Management, Case Management, Crisis Intervention, Telehealth Services, Child and Adolescent Services",True,2021,Urban,6,7.1,6,False
+FAC202100613,AZ,Outpatient Clinic,2319.0,8.0,289.0,"Case Management, Crisis Intervention, Group Therapy, Medication Management, Child and Adolescent Services, Substance Abuse Treatment, Individual Therapy",True,2021,Rural,3,289.9,7,True
+FAC202100614,MO,State Mental Hospital,1902.0,40.0,89.0,"Crisis Intervention, Group Therapy, Telehealth Services, Substance Abuse Treatment",False,2021,Suburban,3,47.6,4,False
+FAC202100615,DE,Outpatient Clinic,3893.0,95.0,16.0,"Telehealth Services, Crisis Intervention, Substance Abuse Treatment, Group Therapy, Medication Management",True,2021,Urban,11,41.0,5,False
+FAC202100616,KY,Private Practice,3193.0,31.0,235.0,"Medication Management, Substance Abuse Treatment, Child and Adolescent Services, Telehealth Services, Crisis Intervention, Case Management",True,2021,Rural,12,103.0,6,True
+FAC202100617,DE,Veterans Affairs Medical Center,4341.0,74.0,237.0,"Child and Adolescent Services, Medication Management, Individual Therapy, Substance Abuse Treatment",True,2021,Suburban,1,58.7,4,True
+FAC202100618,AR,Psychiatric Hospital,690.0,95.0,77.0,"Medication Management, Substance Abuse Treatment, Group Therapy",False,2021,Urban,7,7.3,3,False
+FAC202100619,WV,State Mental Hospital,1462.0,65.0,190.0,Individual Therapy,True,2021,Suburban,5,22.5,1,False
+FAC202100620,RI,Community Mental Health Center,3159.0,95.0,154.0,"Substance Abuse Treatment, Case Management, Child and Adolescent Services, Group Therapy, Individual Therapy, Medication Management",True,2021,Urban,1,33.3,6,False
+FAC202100621,KY,School Based Program,2425.0,55.0,245.0,"Substance Abuse Treatment, Telehealth Services, Child and Adolescent Services",True,2021,Urban,8,44.1,3,False
+FAC202100622,IA,School Based Program,2647.0,159.0,292.0,"Case Management, Telehealth Services, Medication Management, Individual Therapy, Child and Adolescent Services",True,2021,Urban,1,16.6,5,False
+FAC202100623,MT,Outpatient Clinic,669.0,30.0,175.0,"Individual Therapy, Group Therapy, Crisis Intervention, Medication Management, Telehealth Services, Child and Adolescent Services",True,2021,Urban,2,22.3,6,False
+FAC202100624,MD,Private Practice,1435.0,160.0,257.0,Crisis Intervention,False,2021,Rural,11,9.0,1,False
+FAC202100625,OK,Psychiatric Hospital,3908.0,38.0,132.0,"Child and Adolescent Services, Case Management, Group Therapy, Medication Management, Substance Abuse Treatment, Individual Therapy",True,2021,Rural,11,102.8,6,True
+FAC202100626,CO,Psychiatric Hospital,2425.0,10.0,103.0,Child and Adolescent Services,True,2021,Urban,10,242.5,1,True
+FAC202100627,AZ,Outpatient Clinic,2068.0,95.0,61.0,"Crisis Intervention, Case Management, Substance Abuse Treatment, Telehealth Services, Medication Management, Individual Therapy, Child and Adolescent Services",False,2021,Suburban,8,21.8,7,False
+FAC202100628,IN,Community Mental Health Center,201.0,168.0,5.0,"Medication Management, Child and Adolescent Services, Group Therapy, Case Management, Substance Abuse Treatment",True,2021,Suburban,1,1.2,5,False
+FAC202100629,OR,Outpatient Clinic,2425.0,175.0,283.0,"Group Therapy, Child and Adolescent Services",False,2021,Suburban,7,13.9,2,False
+FAC202100630,MS,State Mental Hospital,606.0,127.0,154.0,Child and Adolescent Services,True,2021,Suburban,4,4.8,1,False
+FAC202100631,NM,Community Mental Health Center,3823.0,91.0,179.0,"Medication Management, Group Therapy, Individual Therapy, Telehealth Services, Substance Abuse Treatment, Child and Adolescent Services",False,2021,Rural,5,42.0,6,False
+FAC202100632,TN,Residential Treatment Center,2586.0,160.0,223.0,"Individual Therapy, Child and Adolescent Services, Substance Abuse Treatment",False,2021,Urban,5,16.2,3,False
+FAC202100633,ID,State Mental Hospital,3406.0,95.0,154.0,"Substance Abuse Treatment, Child and Adolescent Services, Telehealth Services, Medication Management, Individual Therapy",False,2021,Suburban,3,35.9,5,False
+FAC202100634,MD,State Mental Hospital,4187.0,34.0,216.0,"Telehealth Services, Medication Management, Group Therapy, Substance Abuse Treatment",False,2021,Urban,1,123.1,4,True
+FAC202100635,WY,Residential Treatment Center,4681.0,70.0,149.0,"Crisis Intervention, Case Management, Substance Abuse Treatment, Child and Adolescent Services, Individual Therapy",True,2021,Suburban,11,66.9,5,True
+FAC202100636,NM,School Based Program,2425.0,137.0,257.0,"Crisis Intervention, Child and Adolescent Services, Telehealth Services, Group Therapy, Case Management",False,2021,Rural,4,17.7,5,False
+FAC202100637,IL,Outpatient Clinic,4918.0,41.0,154.0,"Crisis Intervention, Group Therapy, Individual Therapy, Telehealth Services, Case Management",True,2021,Suburban,9,120.0,5,True
+FAC202100638,TN,State Mental Hospital,2425.0,158.0,226.0,"Group Therapy, Individual Therapy",True,2021,Urban,4,15.3,2,False
+FAC202100639,IN,Veterans Affairs Medical Center,3264.0,95.0,105.0,"Crisis Intervention, Substance Abuse Treatment, Medication Management, Child and Adolescent Services, Individual Therapy, Group Therapy, Telehealth Services",True,2021,Suburban,11,34.4,7,False
+FAC202100640,HI,Veterans Affairs Medical Center,1748.0,68.0,251.0,"Substance Abuse Treatment, Crisis Intervention, Telehealth Services",False,2021,Suburban,12,25.7,3,False
+FAC202100641,IL,Private Practice,2577.0,182.0,239.0,"Substance Abuse Treatment, Case Management, Group Therapy",True,2021,Suburban,9,14.2,3,False
+FAC202100642,UT,Community Mental Health Center,1524.0,20.0,0.0,"Telehealth Services, Crisis Intervention",False,2021,Urban,4,76.2,2,True
+FAC202100643,NV,Private Practice,2864.0,98.0,154.0,"Medication Management, Telehealth Services",False,2021,Suburban,11,29.2,2,False
+FAC202100644,HI,State Mental Hospital,1025.0,50.0,154.0,"Child and Adolescent Services, Substance Abuse Treatment, Group Therapy, Case Management, Telehealth Services, Individual Therapy",False,2021,Urban,7,20.5,6,False
+FAC202100645,NV,School Based Program,1668.0,176.0,256.0,"Child and Adolescent Services, Case Management, Telehealth Services",False,2021,Urban,1,9.5,3,False
+FAC202100646,NJ,Private Practice,2425.0,95.0,240.0,"Substance Abuse Treatment, Crisis Intervention, Medication Management, Child and Adolescent Services, Telehealth Services",True,2021,Urban,6,25.5,5,False
+FAC202100647,SC,Psychiatric Hospital,4709.0,18.0,200.0,"Case Management, Individual Therapy",False,2021,Urban,7,261.6,2,True
+FAC202100648,MT,Private Practice,2425.0,38.0,245.0,"Individual Therapy, Case Management, Group Therapy, Child and Adolescent Services, Crisis Intervention, Substance Abuse Treatment, Medication Management",False,2021,Urban,7,63.8,7,True
+FAC202100649,CT,School Based Program,2425.0,79.0,105.0,"Group Therapy, Telehealth Services, Medication Management",True,2021,Rural,3,30.7,3,False
+FAC202100650,NY,Private Practice,220.0,196.0,246.0,"Child and Adolescent Services, Crisis Intervention, Group Therapy, Case Management, Telehealth Services, Medication Management, Individual Therapy",False,2021,Rural,1,1.1,7,False
+FAC202100651,NJ,Veterans Affairs Medical Center,2813.0,117.0,208.0,"Telehealth Services, Child and Adolescent Services, Medication Management",False,2021,Urban,2,24.0,3,False
+FAC202100652,AK,Private Practice,2425.0,30.0,107.0,"Case Management, Substance Abuse Treatment, Telehealth Services, Group Therapy, Individual Therapy",False,2021,Urban,12,80.8,5,True
+FAC202100653,IN,Community Mental Health Center,3240.0,68.0,19.0,"Medication Management, Substance Abuse Treatment",True,2021,Urban,12,47.6,2,False
+FAC202100654,DE,Residential Treatment Center,2248.0,136.0,169.0,"Crisis Intervention, Substance Abuse Treatment",True,2021,Urban,7,16.5,2,False
+FAC202100655,KS,Community Mental Health Center,2232.0,165.0,147.0,Crisis Intervention,False,2021,Suburban,12,13.5,1,False
+FAC202100656,NE,School Based Program,2425.0,50.0,154.0,"Telehealth Services, Child and Adolescent Services",True,2021,Rural,3,48.5,2,False
+FAC202100657,WA,State Mental Hospital,3939.0,148.0,189.0,Case Management,False,2021,Rural,4,26.6,1,False
+FAC202100658,NV,Private Practice,321.0,188.0,219.0,"Medication Management, Crisis Intervention, Telehealth Services, Child and Adolescent Services, Substance Abuse Treatment, Case Management",True,2021,Suburban,2,1.7,6,False
+FAC202100659,NE,Psychiatric Hospital,2509.0,55.0,172.0,"Substance Abuse Treatment, Telehealth Services, Child and Adolescent Services, Group Therapy",True,2021,Suburban,6,45.6,4,False
+FAC202100660,RI,State Mental Hospital,4160.0,123.0,190.0,"Case Management, Child and Adolescent Services, Substance Abuse Treatment, Crisis Intervention",False,2021,Rural,11,33.8,4,False
+FAC202100661,DC,Psychiatric Hospital,4692.0,95.0,163.0,"Substance Abuse Treatment, Child and Adolescent Services, Crisis Intervention",True,2021,Rural,2,49.4,3,False
+FAC202100662,CT,Psychiatric Hospital,4960.0,52.0,154.0,"Child and Adolescent Services, Group Therapy, Substance Abuse Treatment",True,2021,Urban,12,95.4,3,True
+FAC202100663,NV,Residential Treatment Center,2572.0,111.0,39.0,"Group Therapy, Case Management, Child and Adolescent Services, Crisis Intervention, Medication Management",False,2021,Suburban,6,23.2,5,False
+FAC202100664,ND,Outpatient Clinic,2425.0,157.0,154.0,"Group Therapy, Medication Management, Substance Abuse Treatment, Crisis Intervention, Individual Therapy, Child and Adolescent Services, Case Management",True,2021,Rural,6,15.4,7,False
+FAC202100665,MT,Outpatient Clinic,4953.0,183.0,33.0,"Telehealth Services, Group Therapy",True,2021,Suburban,12,27.1,2,False
+FAC202100666,DE,Private Practice,3532.0,68.0,28.0,"Individual Therapy, Group Therapy, Telehealth Services, Crisis Intervention, Case Management, Substance Abuse Treatment",True,2021,Rural,8,51.9,6,True
+FAC202100667,IN,Residential Treatment Center,1277.0,177.0,290.0,"Group Therapy, Child and Adolescent Services, Medication Management, Case Management, Substance Abuse Treatment, Crisis Intervention, Individual Therapy",False,2021,Rural,5,7.2,7,False
+FAC202100668,IN,Psychiatric Hospital,3298.0,158.0,244.0,"Child and Adolescent Services, Telehealth Services, Substance Abuse Treatment, Crisis Intervention, Individual Therapy, Case Management, Group Therapy",True,2021,Urban,5,20.9,7,False
+FAC202100669,ND,Residential Treatment Center,2425.0,95.0,185.0,"Substance Abuse Treatment, Group Therapy, Crisis Intervention, Individual Therapy, Medication Management, Telehealth Services",False,2021,Suburban,1,25.5,6,False
+FAC202100670,CA,State Mental Hospital,1066.0,142.0,154.0,"Substance Abuse Treatment, Group Therapy, Medication Management, Child and Adolescent Services, Telehealth Services",False,2021,Suburban,2,7.5,5,False
+FAC202100671,OH,Outpatient Clinic,2285.0,105.0,185.0,"Substance Abuse Treatment, Group Therapy, Telehealth Services",True,2021,Suburban,10,21.8,3,False
+FAC202100672,AL,Outpatient Clinic,4517.0,175.0,165.0,"Medication Management, Child and Adolescent Services, Substance Abuse Treatment, Telehealth Services, Crisis Intervention",False,2021,Urban,12,25.8,5,False
+FAC202100673,MN,Residential Treatment Center,2425.0,95.0,90.0,"Case Management, Individual Therapy",False,2021,Suburban,9,25.5,2,False
+FAC202100674,IA,Outpatient Clinic,762.0,92.0,176.0,"Crisis Intervention, Individual Therapy, Medication Management, Substance Abuse Treatment",False,2021,Suburban,12,8.3,4,False
+FAC202100675,OR,Residential Treatment Center,2425.0,90.0,183.0,"Telehealth Services, Substance Abuse Treatment",False,2021,Urban,5,26.9,2,False
+FAC202100676,MT,Residential Treatment Center,2425.0,43.0,150.0,"Child and Adolescent Services, Group Therapy",True,2021,Rural,10,56.4,2,True
+FAC202100677,AL,Outpatient Clinic,3946.0,136.0,44.0,Crisis Intervention,True,2021,Urban,6,29.0,1,False
+FAC202100678,OK,Psychiatric Hospital,1840.0,24.0,154.0,"Crisis Intervention, Child and Adolescent Services, Group Therapy, Telehealth Services, Substance Abuse Treatment",True,2021,Suburban,5,76.7,5,True
+FAC202100679,IA,Private Practice,1118.0,74.0,154.0,"Group Therapy, Child and Adolescent Services, Individual Therapy, Medication Management, Case Management",False,2021,Rural,8,15.1,5,False
+FAC202100680,NC,Outpatient Clinic,2425.0,95.0,154.0,"Case Management, Individual Therapy",True,2021,Urban,8,25.5,2,False
+FAC202100681,AZ,Psychiatric Hospital,1796.0,77.0,63.0,"Crisis Intervention, Child and Adolescent Services",True,2021,Suburban,6,23.3,2,False
+FAC202100682,WY,Outpatient Clinic,2475.0,26.0,49.0,"Substance Abuse Treatment, Case Management, Individual Therapy",True,2021,Rural,1,95.2,3,True
+FAC202100683,KS,Private Practice,4311.0,66.0,154.0,"Substance Abuse Treatment, Child and Adolescent Services, Case Management, Individual Therapy, Telehealth Services, Crisis Intervention",False,2021,Suburban,3,65.3,6,True
+FAC202100684,WA,Veterans Affairs Medical Center,4456.0,199.0,187.0,"Case Management, Crisis Intervention, Child and Adolescent Services, Group Therapy",False,2021,Rural,7,22.4,4,False
+FAC202100685,MN,Psychiatric Hospital,4861.0,149.0,223.0,"Child and Adolescent Services, Substance Abuse Treatment, Group Therapy, Individual Therapy, Crisis Intervention",True,2021,Suburban,4,32.6,5,False
+FAC202100686,ND,School Based Program,3649.0,165.0,39.0,"Child and Adolescent Services, Substance Abuse Treatment, Case Management, Telehealth Services, Medication Management, Group Therapy",False,2021,Urban,12,22.1,6,False
+FAC202100687,HI,Private Practice,1491.0,88.0,202.0,"Case Management, Crisis Intervention",False,2021,Urban,7,16.9,2,False
+FAC202100688,SC,Community Mental Health Center,998.0,118.0,218.0,"Substance Abuse Treatment, Crisis Intervention",True,2021,Rural,7,8.5,2,False
+FAC202100689,CO,Private Practice,4993.0,79.0,63.0,"Case Management, Individual Therapy, Substance Abuse Treatment, Crisis Intervention",False,2021,Suburban,5,63.2,4,True
+FAC202100690,MT,State Mental Hospital,1649.0,95.0,254.0,"Medication Management, Child and Adolescent Services, Group Therapy, Telehealth Services",False,2021,Urban,2,17.4,4,False
+FAC202100691,IN,Veterans Affairs Medical Center,1605.0,172.0,179.0,"Telehealth Services, Child and Adolescent Services, Substance Abuse Treatment",True,2021,Suburban,9,9.3,3,False
+FAC202100692,TN,Community Mental Health Center,2297.0,163.0,173.0,Case Management,False,2021,Rural,3,14.1,1,False
+FAC202100693,MI,Residential Treatment Center,774.0,111.0,282.0,"Case Management, Group Therapy, Crisis Intervention, Telehealth Services, Child and Adolescent Services, Individual Therapy, Substance Abuse Treatment",True,2021,Rural,9,7.0,7,False
+FAC202100694,HI,State Mental Hospital,508.0,109.0,111.0,Group Therapy,False,2021,Suburban,1,4.7,1,False
+FAC202100695,LA,Private Practice,2160.0,157.0,27.0,"Telehealth Services, Substance Abuse Treatment, Case Management, Crisis Intervention, Individual Therapy, Group Therapy",False,2021,Urban,12,13.8,6,False
+FAC202100696,VT,Private Practice,2425.0,95.0,282.0,Case Management,False,2021,Urban,6,25.5,1,False
+FAC202100697,VA,Psychiatric Hospital,1391.0,69.0,208.0,"Individual Therapy, Group Therapy, Crisis Intervention, Child and Adolescent Services, Substance Abuse Treatment, Case Management, Telehealth Services",False,2021,Urban,6,20.2,7,False
+FAC202100698,CA,Private Practice,2537.0,126.0,99.0,"Case Management, Child and Adolescent Services, Telehealth Services",False,2021,Rural,11,20.1,3,False
+FAC202100699,TX,Psychiatric Hospital,2425.0,30.0,61.0,"Substance Abuse Treatment, Case Management, Medication Management, Individual Therapy, Crisis Intervention, Group Therapy",False,2021,Urban,3,80.8,6,True
+FAC202100700,PA,Private Practice,2425.0,70.0,154.0,"Individual Therapy, Medication Management",False,2021,Rural,11,34.6,2,False
+FAC202100701,IL,State Mental Hospital,4247.0,189.0,186.0,"Crisis Intervention, Telehealth Services, Substance Abuse Treatment, Individual Therapy, Case Management",True,2021,Urban,11,22.5,5,False
+FAC202100702,MN,State Mental Hospital,2810.0,104.0,244.0,"Crisis Intervention, Case Management",False,2021,Suburban,10,27.0,2,False
+FAC202100703,AK,Private Practice,2425.0,10.0,154.0,"Individual Therapy, Case Management, Telehealth Services, Child and Adolescent Services, Crisis Intervention",True,2021,Suburban,6,242.5,5,True
+FAC202100704,WY,Veterans Affairs Medical Center,1696.0,119.0,264.0,"Child and Adolescent Services, Group Therapy, Medication Management, Telehealth Services",False,2021,Urban,5,14.3,4,False
+FAC202100705,VA,Veterans Affairs Medical Center,4209.0,134.0,264.0,"Group Therapy, Individual Therapy, Crisis Intervention, Child and Adolescent Services, Medication Management, Substance Abuse Treatment, Case Management",True,2021,Rural,6,31.4,7,False
+FAC202100706,NV,Veterans Affairs Medical Center,4242.0,116.0,154.0,"Child and Adolescent Services, Crisis Intervention, Medication Management, Group Therapy, Substance Abuse Treatment, Individual Therapy, Telehealth Services",False,2021,Rural,1,36.6,7,False
+FAC202100707,MD,Psychiatric Hospital,2425.0,179.0,260.0,"Telehealth Services, Crisis Intervention, Case Management, Child and Adolescent Services, Individual Therapy, Medication Management, Substance Abuse Treatment",True,2021,Suburban,3,13.5,7,False
+FAC202100708,AZ,Veterans Affairs Medical Center,3130.0,184.0,271.0,Crisis Intervention,False,2021,Suburban,11,17.0,1,False
+FAC202100709,KY,Residential Treatment Center,1674.0,117.0,154.0,"Child and Adolescent Services, Medication Management, Group Therapy, Crisis Intervention, Individual Therapy, Case Management",True,2021,Rural,5,14.3,6,False
+FAC202100710,ID,School Based Program,504.0,136.0,295.0,"Telehealth Services, Child and Adolescent Services, Substance Abuse Treatment, Individual Therapy, Crisis Intervention, Case Management",True,2021,Rural,8,3.7,6,False
+FAC202100711,AL,Community Mental Health Center,2425.0,197.0,154.0,"Substance Abuse Treatment, Group Therapy, Child and Adolescent Services",True,2021,Suburban,2,12.3,3,False
+FAC202100712,VA,Private Practice,2425.0,40.0,77.0,Individual Therapy,False,2021,Suburban,3,60.6,1,True
+FAC202100713,OH,Outpatient Clinic,2772.0,152.0,154.0,"Group Therapy, Medication Management, Child and Adolescent Services",False,2021,Rural,12,18.2,3,False
+FAC202100714,MS,State Mental Hospital,2362.0,109.0,140.0,"Group Therapy, Medication Management, Telehealth Services, Individual Therapy, Child and Adolescent Services",False,2021,Rural,6,21.7,5,False
+FAC202100715,AR,State Mental Hospital,1367.0,82.0,154.0,"Crisis Intervention, Telehealth Services, Child and Adolescent Services, Individual Therapy, Case Management",True,2021,Suburban,10,16.7,5,False
+FAC202100716,KS,Community Mental Health Center,2425.0,24.0,96.0,"Child and Adolescent Services, Group Therapy, Medication Management, Telehealth Services, Individual Therapy, Crisis Intervention",True,2021,Urban,7,101.0,6,True
+FAC202100717,CT,Veterans Affairs Medical Center,2425.0,160.0,286.0,"Group Therapy, Crisis Intervention, Medication Management, Child and Adolescent Services, Case Management",False,2021,Rural,10,15.2,5,False
+FAC202100718,UT,Psychiatric Hospital,958.0,127.0,82.0,"Individual Therapy, Case Management, Medication Management",True,2021,Suburban,4,7.5,3,False
+FAC202100719,MD,School Based Program,1599.0,91.0,12.0,Medication Management,True,2021,Suburban,6,17.6,1,False
+FAC202100720,OR,Veterans Affairs Medical Center,4370.0,43.0,233.0,"Individual Therapy, Medication Management, Child and Adolescent Services, Telehealth Services, Case Management, Substance Abuse Treatment, Group Therapy",False,2021,Urban,3,101.6,7,True
+FAC202100721,RI,Psychiatric Hospital,3001.0,111.0,209.0,"Individual Therapy, Child and Adolescent Services",True,2021,Suburban,6,27.0,2,False
+FAC202100722,ND,Private Practice,2690.0,103.0,154.0,"Individual Therapy, Substance Abuse Treatment, Case Management, Group Therapy, Crisis Intervention, Medication Management",False,2021,Urban,4,26.1,6,False
+FAC202100723,VT,Private Practice,3954.0,56.0,81.0,Individual Therapy,True,2021,Suburban,6,70.6,1,True
+FAC202100724,UT,School Based Program,750.0,15.0,154.0,"Telehealth Services, Case Management, Individual Therapy, Child and Adolescent Services, Medication Management, Group Therapy, Crisis Intervention",True,2021,Rural,9,50.0,7,False
+FAC202100725,DE,State Mental Hospital,4455.0,174.0,254.0,"Individual Therapy, Telehealth Services, Child and Adolescent Services, Crisis Intervention, Substance Abuse Treatment, Case Management, Medication Management",False,2021,Urban,2,25.6,7,False
+FAC202100726,AR,Psychiatric Hospital,2425.0,17.0,174.0,"Medication Management, Substance Abuse Treatment",True,2021,Urban,11,142.6,2,True
+FAC202100727,AR,Veterans Affairs Medical Center,1915.0,112.0,154.0,"Child and Adolescent Services, Substance Abuse Treatment, Crisis Intervention, Group Therapy, Individual Therapy, Telehealth Services",False,2021,Rural,2,17.1,6,False
+FAC202100728,WY,Community Mental Health Center,2425.0,8.0,35.0,"Telehealth Services, Substance Abuse Treatment, Individual Therapy, Case Management, Group Therapy",False,2021,Urban,12,303.1,5,True
+FAC202100729,WV,State Mental Hospital,4902.0,45.0,263.0,"Individual Therapy, Case Management, Medication Management, Crisis Intervention, Telehealth Services, Child and Adolescent Services",False,2021,Suburban,7,108.9,6,True
+FAC202100730,CO,School Based Program,127.0,95.0,173.0,"Substance Abuse Treatment, Crisis Intervention, Medication Management, Case Management, Individual Therapy, Child and Adolescent Services",True,2021,Rural,3,1.3,6,False
+FAC202100731,RI,Community Mental Health Center,893.0,27.0,215.0,Individual Therapy,False,2021,Rural,11,33.1,1,False
+FAC202100732,OH,Private Practice,4394.0,60.0,191.0,Substance Abuse Treatment,True,2021,Urban,5,73.2,1,True
+FAC202100733,AZ,Outpatient Clinic,913.0,95.0,251.0,"Individual Therapy, Crisis Intervention, Child and Adolescent Services",True,2021,Suburban,7,9.6,3,False
+FAC202100734,MN,Outpatient Clinic,614.0,34.0,185.0,"Medication Management, Group Therapy, Child and Adolescent Services, Substance Abuse Treatment, Case Management, Individual Therapy",False,2021,Suburban,9,18.1,6,False
+FAC202100735,MO,Residential Treatment Center,3645.0,188.0,108.0,"Telehealth Services, Case Management, Medication Management, Group Therapy, Individual Therapy",True,2021,Urban,5,19.4,5,False
+FAC202100736,TN,Private Practice,2435.0,127.0,122.0,"Child and Adolescent Services, Substance Abuse Treatment, Group Therapy",False,2021,Suburban,12,19.2,3,False
+FAC202100737,AZ,Psychiatric Hospital,745.0,73.0,88.0,"Child and Adolescent Services, Individual Therapy, Group Therapy, Medication Management, Substance Abuse Treatment, Case Management, Telehealth Services",True,2021,Suburban,10,10.2,7,False
+FAC202100738,CT,School Based Program,2425.0,153.0,154.0,"Group Therapy, Case Management, Medication Management, Child and Adolescent Services, Substance Abuse Treatment",False,2021,Urban,2,15.8,5,False
+FAC202100739,MD,Psychiatric Hospital,3044.0,95.0,72.0,"Group Therapy, Child and Adolescent Services, Case Management, Crisis Intervention, Telehealth Services, Substance Abuse Treatment, Individual Therapy",False,2021,Urban,9,32.0,7,False
+FAC202100740,NV,Outpatient Clinic,4295.0,183.0,216.0,"Individual Therapy, Group Therapy, Crisis Intervention, Substance Abuse Treatment",True,2021,Rural,5,23.5,4,False
+FAC202100741,LA,State Mental Hospital,3299.0,39.0,168.0,"Substance Abuse Treatment, Group Therapy, Telehealth Services",True,2021,Suburban,2,84.6,3,True
+FAC202100742,IA,Outpatient Clinic,4852.0,29.0,125.0,"Telehealth Services, Case Management, Substance Abuse Treatment, Medication Management, Crisis Intervention, Group Therapy",False,2021,Rural,9,167.3,6,True
+FAC202100743,IL,Psychiatric Hospital,2425.0,177.0,154.0,"Telehealth Services, Crisis Intervention, Substance Abuse Treatment",True,2021,Urban,8,13.7,3,False
+FAC202100744,KS,Community Mental Health Center,446.0,47.0,161.0,Substance Abuse Treatment,True,2021,Rural,4,9.5,1,False
+FAC202100745,MS,Residential Treatment Center,2735.0,95.0,131.0,"Case Management, Substance Abuse Treatment, Crisis Intervention, Medication Management, Individual Therapy, Group Therapy, Child and Adolescent Services",True,2021,Suburban,11,28.8,7,False
+FAC202100746,MN,Veterans Affairs Medical Center,1131.0,90.0,298.0,"Case Management, Medication Management, Child and Adolescent Services, Telehealth Services, Group Therapy",True,2021,Urban,3,12.6,5,False
+FAC202100747,MT,State Mental Hospital,1245.0,156.0,19.0,"Group Therapy, Medication Management, Crisis Intervention, Substance Abuse Treatment, Individual Therapy",False,2021,Suburban,8,8.0,5,False
+FAC202100748,MS,Veterans Affairs Medical Center,2425.0,47.0,185.0,"Case Management, Individual Therapy, Crisis Intervention, Substance Abuse Treatment, Child and Adolescent Services",True,2021,Urban,9,51.6,5,True
+FAC202100749,AR,Private Practice,1419.0,117.0,257.0,"Individual Therapy, Medication Management",True,2021,Suburban,10,12.1,2,False
+FAC202100750,CA,Outpatient Clinic,617.0,124.0,269.0,"Substance Abuse Treatment, Child and Adolescent Services, Telehealth Services, Crisis Intervention, Medication Management",False,2021,Rural,7,5.0,5,False
+FAC202100751,NE,School Based Program,2695.0,183.0,299.0,"Group Therapy, Child and Adolescent Services, Case Management, Individual Therapy, Substance Abuse Treatment, Crisis Intervention",True,2021,Rural,5,14.7,6,False
+FAC202100752,MA,Community Mental Health Center,3027.0,95.0,128.0,"Substance Abuse Treatment, Crisis Intervention, Individual Therapy, Telehealth Services, Case Management, Child and Adolescent Services, Medication Management",False,2021,Urban,2,31.9,7,False
+FAC202100753,ME,Private Practice,1686.0,11.0,203.0,"Case Management, Medication Management, Substance Abuse Treatment, Group Therapy, Telehealth Services, Child and Adolescent Services",False,2021,Suburban,3,153.3,6,True
+FAC202100754,NV,Veterans Affairs Medical Center,2425.0,47.0,154.0,"Child and Adolescent Services, Substance Abuse Treatment, Medication Management, Telehealth Services",True,2021,Suburban,12,51.6,4,True
+FAC202100755,KS,Veterans Affairs Medical Center,4699.0,95.0,169.0,Medication Management,False,2021,Rural,10,49.5,1,False
+FAC202100756,NM,Veterans Affairs Medical Center,2012.0,26.0,154.0,"Case Management, Telehealth Services, Group Therapy, Substance Abuse Treatment",False,2021,Suburban,8,77.4,4,True
+FAC202100757,ID,Community Mental Health Center,2218.0,68.0,270.0,Individual Therapy,False,2021,Suburban,6,32.6,1,False
+FAC202100758,SD,Private Practice,1506.0,128.0,259.0,"Individual Therapy, Group Therapy, Telehealth Services, Crisis Intervention",True,2021,Urban,8,11.8,4,False
+FAC202100759,MA,Outpatient Clinic,314.0,24.0,154.0,"Group Therapy, Crisis Intervention, Case Management, Telehealth Services",False,2021,Suburban,8,13.1,4,False
+FAC202100760,WV,Community Mental Health Center,3292.0,92.0,201.0,Individual Therapy,True,2021,Urban,9,35.8,1,False
+FAC202100761,MT,State Mental Hospital,195.0,75.0,235.0,"Child and Adolescent Services, Medication Management, Substance Abuse Treatment",False,2021,Rural,11,2.6,3,False
+FAC202100762,AK,Community Mental Health Center,2806.0,198.0,80.0,"Case Management, Group Therapy, Medication Management, Telehealth Services, Individual Therapy",True,2021,Urban,9,14.2,5,False
+FAC202100763,NJ,State Mental Hospital,1566.0,82.0,106.0,"Crisis Intervention, Child and Adolescent Services, Case Management, Substance Abuse Treatment, Individual Therapy, Medication Management",True,2021,Suburban,12,19.1,6,False
+FAC202100764,PA,State Mental Hospital,2456.0,28.0,137.0,"Individual Therapy, Substance Abuse Treatment, Crisis Intervention, Medication Management, Telehealth Services, Group Therapy, Child and Adolescent Services",True,2021,Rural,5,87.7,7,True
+FAC202100765,KY,Community Mental Health Center,1177.0,107.0,34.0,"Medication Management, Substance Abuse Treatment",False,2021,Suburban,12,11.0,2,False
+FAC202100766,NY,Psychiatric Hospital,2425.0,63.0,108.0,"Substance Abuse Treatment, Crisis Intervention, Medication Management, Case Management, Individual Therapy",False,2021,Urban,2,38.5,5,False
+FAC202100767,CT,School Based Program,1064.0,22.0,234.0,Child and Adolescent Services,False,2021,Urban,10,48.4,1,False
+FAC202100768,NC,Community Mental Health Center,1505.0,69.0,60.0,"Medication Management, Case Management, Group Therapy, Crisis Intervention, Substance Abuse Treatment, Telehealth Services",False,2021,Rural,9,21.8,6,False
+FAC202100769,MD,Private Practice,3628.0,98.0,47.0,"Individual Therapy, Group Therapy",False,2021,Rural,3,37.0,2,False
+FAC202100770,GA,Psychiatric Hospital,4256.0,54.0,79.0,"Group Therapy, Child and Adolescent Services, Medication Management, Case Management, Substance Abuse Treatment, Telehealth Services, Individual Therapy",True,2021,Suburban,12,78.8,7,True
+FAC202100771,WA,School Based Program,4185.0,69.0,247.0,"Crisis Intervention, Substance Abuse Treatment, Case Management, Group Therapy, Child and Adolescent Services",True,2021,Rural,2,60.7,5,True
+FAC202100772,AL,Residential Treatment Center,4363.0,10.0,73.0,Individual Therapy,True,2021,Suburban,4,436.3,1,True
+FAC202100773,VA,Residential Treatment Center,2097.0,113.0,294.0,"Crisis Intervention, Individual Therapy",False,2021,Rural,5,18.6,2,False
+FAC202100774,SD,State Mental Hospital,2340.0,147.0,154.0,"Telehealth Services, Individual Therapy, Child and Adolescent Services, Substance Abuse Treatment, Group Therapy",False,2021,Urban,9,15.9,5,False
+FAC202100775,ND,Veterans Affairs Medical Center,1806.0,143.0,97.0,Child and Adolescent Services,True,2021,Rural,10,12.6,1,False
+FAC202100776,CA,Psychiatric Hospital,2252.0,192.0,176.0,"Telehealth Services, Substance Abuse Treatment",False,2021,Urban,2,11.7,2,False
+FAC202100777,SC,School Based Program,3813.0,173.0,61.0,"Medication Management, Crisis Intervention, Substance Abuse Treatment, Telehealth Services, Case Management, Group Therapy, Individual Therapy",True,2021,Rural,11,22.0,7,False
+FAC202100778,NE,School Based Program,2425.0,119.0,154.0,"Telehealth Services, Substance Abuse Treatment, Case Management, Group Therapy, Crisis Intervention, Individual Therapy",True,2021,Suburban,10,20.4,6,False
+FAC202100779,VA,Community Mental Health Center,1610.0,120.0,204.0,Individual Therapy,True,2021,Suburban,8,13.4,1,False
+FAC202100780,NJ,Private Practice,1218.0,127.0,258.0,Group Therapy,False,2021,Suburban,6,9.6,1,False
+FAC202100781,CA,Private Practice,694.0,72.0,43.0,"Medication Management, Crisis Intervention",True,2021,Rural,11,9.6,2,False
+FAC202100782,ID,School Based Program,1295.0,79.0,289.0,Substance Abuse Treatment,False,2021,Urban,12,16.4,1,False
+FAC202100783,MS,Private Practice,1682.0,127.0,250.0,Telehealth Services,False,2021,Urban,6,13.2,1,False
+FAC202100784,WA,Residential Treatment Center,4662.0,58.0,102.0,"Group Therapy, Child and Adolescent Services, Case Management, Crisis Intervention, Telehealth Services, Medication Management, Individual Therapy",False,2021,Suburban,8,80.4,7,True
+FAC202100785,MN,State Mental Hospital,3820.0,104.0,79.0,"Child and Adolescent Services, Substance Abuse Treatment, Medication Management",False,2021,Urban,12,36.7,3,False
+FAC202100786,ID,Outpatient Clinic,4607.0,95.0,199.0,"Case Management, Substance Abuse Treatment, Telehealth Services, Child and Adolescent Services, Crisis Intervention, Medication Management",False,2021,Rural,10,48.5,6,False
+FAC202100787,PA,State Mental Hospital,2663.0,81.0,154.0,"Individual Therapy, Crisis Intervention, Child and Adolescent Services, Medication Management",True,2021,Urban,1,32.9,4,False
+FAC202100788,OH,Private Practice,2061.0,139.0,146.0,Substance Abuse Treatment,True,2021,Suburban,8,14.8,1,False
+FAC202100789,OR,Outpatient Clinic,2883.0,71.0,247.0,"Telehealth Services, Crisis Intervention, Child and Adolescent Services, Case Management, Substance Abuse Treatment",True,2021,Urban,7,40.6,5,False
+FAC202100790,SD,Residential Treatment Center,203.0,50.0,95.0,"Case Management, Medication Management",True,2021,Urban,8,4.1,2,False
+FAC202100791,TX,Private Practice,2425.0,95.0,1.0,"Group Therapy, Medication Management, Substance Abuse Treatment, Case Management, Child and Adolescent Services, Crisis Intervention",True,2021,Rural,7,25.5,6,False
+FAC202100792,VT,Outpatient Clinic,4056.0,95.0,34.0,"Medication Management, Group Therapy, Individual Therapy, Substance Abuse Treatment",False,2021,Suburban,5,42.7,4,False
+FAC202100793,HI,State Mental Hospital,1403.0,85.0,167.0,"Case Management, Individual Therapy, Substance Abuse Treatment",False,2021,Urban,12,16.5,3,False
+FAC202100794,WI,State Mental Hospital,2835.0,137.0,91.0,"Individual Therapy, Substance Abuse Treatment, Medication Management, Group Therapy, Crisis Intervention, Case Management",False,2021,Urban,3,20.7,6,False
+FAC202100795,OH,School Based Program,2425.0,20.0,154.0,"Substance Abuse Treatment, Individual Therapy",True,2021,Urban,11,121.2,2,True
+FAC202100796,DE,Private Practice,1762.0,168.0,167.0,Child and Adolescent Services,True,2021,Rural,9,10.5,1,False
+FAC202100797,WI,Community Mental Health Center,3668.0,187.0,227.0,Medication Management,False,2021,Suburban,8,19.6,1,False
+FAC202100798,VT,Private Practice,2425.0,86.0,154.0,Substance Abuse Treatment,True,2021,Urban,12,28.2,1,False
+FAC202100799,RI,State Mental Hospital,980.0,95.0,189.0,"Crisis Intervention, Medication Management, Child and Adolescent Services",False,2021,Urban,1,10.3,3,False
